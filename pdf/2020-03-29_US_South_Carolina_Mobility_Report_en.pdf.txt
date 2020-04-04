@@ -1,0 +1,1856 @@
+                                                                       COVID-19 Community Mobility Report
+
+
+South Carolina March 29, 2020
+
+Mobility changes
+Google prepared this report to help you and public health officials understand responses to social
+distancing guidance related to COVID-19. This report shouldn’t be used for medical diagnostic,
+prognostic, or treatment purposes. It also isn’t intended to be used for guidance on personal travel
+plans.
+
+Location accuracy and the understanding of categorized places varies from region to region, so we
+don’t recommend using this data to compare changes between countries, or between regions with
+different characteristics (e.g. rural versus urban areas).
+
+We’ll leave a region out of the report if we don’t have statistically significant levels of data. To learn how
+we calculate these trends and preserve privacy, read About this data.
+
+
+Retail & recreation
+                               +80%
+                                                                          Mobility trends for places like restaurants,
+
+
+-38%
+                               +40%                                       cafes, shopping centers, theme parks,
+                                                                          museums, libraries, and movie theaters.
+                             Baseline
+
+                                -40%
+
+compared to baseline            -80%
+                                 Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+
+Grocery & pharmacy
+                               +80%
+                                                                          Mobility trends for places like grocery
+
+
+-11%
+                               +40%                                       markets, food warehouses, farmers
+                                                                          markets, specialty food shops, drug stores,
+                             Baseline
+                                                                          and pharmacies.
+                                -40%
+
+compared to baseline            -80%
+                                 Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+
+Parks
+                               +80%
+                                                                          Mobility trends for places like national parks,
+
+
+-4%
+                               +40%                                       public beaches, marinas, dog parks, plazas,
+                                                                          and public gardens.
+                             Baseline
+
+                                -40%
+
+compared to baseline            -80%
+                                 Sun Feb 16   Sun Mar 8   Sun Mar 29
+Transit stations
+                         +80%
+                                                                 Mobility trends for places like public transport
+
+
+-34%
+                         +40%                                    hubs such as subway, bus, and train stations.
+                       Baseline
+
+                          -40%
+
+compared to baseline      -80%
+                           Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+
+Workplaces
+                         +80%
+                                                                 Mobility trends for places of work.
+
+
+-34%
+                         +40%
+
+                       Baseline
+
+                          -40%
+
+compared to baseline      -80%
+                           Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+
+Residential
+                         +80%
+                                                                 Mobility trends for places of residence.
+
+
++9%
+                         +40%
+
+                       Baseline
+
+                          -40%
+
+compared to baseline      -80%
+                           Sun Feb 16   Sun Mar 8   Sun Mar 29
+Abbeville County
+
+Retail & recreation
+                        *                       Grocery & pharmacy                        Parks
+                                                                                                  *
+-35% compared to baseline                       +7% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -30% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Aiken County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-31% compared to baseline                       -11% compared to baseline                 -1% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
++0% compared to baseline                        -33% compared to baseline                 +8% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Allendale County
+
+Retail & recreation
+                        *                       Grocery & pharmacy
+                                                                     *                    Parks
+                                                                                                  *
+Not enough data for this date                   -12% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace
+                                                             *                            Residential
+                                                                                                        *
+Not enough data for this date                   -16% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Anderson County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-40% compared to baseline                       -3% compared to baseline                  -1% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-20% compared to baseline                       -34% compared to baseline                 +8% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Bamberg County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-28% compared to baseline                       +2% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace
+                                                             *                            Residential
+                                                                                                        *
+Not enough data for this date                   -26% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Barnwell County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-23% compared to baseline                       +11% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -24% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Beaufort County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-38% compared to baseline                       -16% compared to baseline                 +1% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
+-32% compared to baseline                       -39% compared to baseline                 +10% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+
+Berkeley County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-32% compared to baseline                       -10% compared to baseline                 +47% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-53% compared to baseline                       -32% compared to baseline                 +9% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Calhoun County
+
+Retail & recreation
+                      *                      Grocery & pharmacy
+                                                                  *                    Parks
+                                                                                               *
+-9% compared to baseline                     +13% compared to baseline                 Not enough data for this date
+
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations                             Workplace
+                                                          *                            Residential
+                                                                                                     *
+-47% compared to baseline                    -32% compared to baseline                 Not enough data for this date
+
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Charleston County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+
+-48% compared to baseline                    -25% compared to baseline                 -35% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                             Workplace                                 Residential
+
+-62% compared to baseline                    -42% compared to baseline                 +11% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Cherokee County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-37% compared to baseline                       -3% compared to baseline                  -7% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+                                                                                                        *
+-20% compared to baseline                       -24% compared to baseline                 +11% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Chester County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-29% compared to baseline                       +4% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+-25% compared to baseline                       -25% compared to baseline                 +14% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Chesterfield County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-34% compared to baseline                       +3% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -26% compared to baseline                 +13% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Clarendon County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-23% compared to baseline                       -2% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+-12% compared to baseline                       -28% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Colleton County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-32% compared to baseline                       -13% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations                                Workplace                                 Residential
+                                                                                                        *
+-27% compared to baseline                       -31% compared to baseline                 +12% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Darlington County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-20% compared to baseline                       -2% compared to baseline                  -36% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -22% compared to baseline                 +13% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Dillon County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+                                                                                               *
+-21% compared to baseline                    +3% compared to baseline                  -41% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations                             Workplace                                 Residential
+                                                                                                     *
+-21% compared to baseline                    -19% compared to baseline                 -2% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+
+Dorchester County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+                                                                                               *
+-32% compared to baseline                    -12% compared to baseline                 +1% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations                             Workplace                                 Residential
+
+-38% compared to baseline                    -36% compared to baseline                 +9% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Edgefield County
+
+Retail & recreation
+                        *                       Grocery & pharmacy                        Parks
+                                                                                                  *
+-46% compared to baseline                       +8% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -32% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Fairfield County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
++0% compared to baseline                        +1% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations                                Workplace                                 Residential
+                                                                                                        *
+-27% compared to baseline                       -33% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Florence County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-38% compared to baseline                       -11% compared to baseline                 -30% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-24% compared to baseline                       -30% compared to baseline                 +8% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+
+Georgetown County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-41% compared to baseline                       -6% compared to baseline                  +58% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -30% compared to baseline                 +11% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8   Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Greenville County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-42% compared to baseline                       -12% compared to baseline                 -35% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-38% compared to baseline                       -39% compared to baseline                 +10% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Greenwood County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-30% compared to baseline                       -4% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
+Not enough data for this date                   -27% compared to baseline                 +11% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Hampton County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+                                                                                               *
+-44% compared to baseline                    -10% compared to baseline                 Not enough data for this date
+
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations                             Workplace                                 Residential
+                                                                                                     *
+-26% compared to baseline                    -23% compared to baseline                 Not enough data for this date
+
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Horry County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+
+-43% compared to baseline                    -13% compared to baseline                 +17% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                             Workplace                                 Residential
+
+-58% compared to baseline                    -39% compared to baseline                 +8% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Jasper County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+
+-32% compared to baseline                    -21% compared to baseline                 -25% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                             Workplace                                 Residential
+                                                                                                     *
+-8% compared to baseline                     -39% compared to baseline                 +8% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Kershaw County
+
+Retail & recreation                          Grocery & pharmacy                        Parks
+                                                                                               *
+-38% compared to baseline                    -7% compared to baseline                  Not enough data for this date
+
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations                             Workplace                                 Residential
+                                                                                                     *
+-36% compared to baseline                    -30% compared to baseline                 +14% compared to baseline
+  +80%                                         +80%                                      +80%
+
+  +40%                                         +40%                                      +40%
+
+Baseline                                     Baseline                                  Baseline
+
+   -40%                                         -40%                                      -40%
+
+   -80%                                         -80%                                      -80%
+    Sun Feb 16     Sun Mar 8    Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Lancaster County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-30% compared to baseline                       -13% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
+Not enough data for this date                   -35% compared to baseline                 +9% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Laurens County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-23% compared to baseline                       +2% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-27% compared to baseline                       -26% compared to baseline                 +6% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Lee County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-51% compared to baseline                       +6% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+-28% compared to baseline                       -20% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Lexington County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-42% compared to baseline                       -15% compared to baseline                 +24% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-33% compared to baseline                       -35% compared to baseline                 +10% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Marion County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-26% compared to baseline                       -7% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -25% compared to baseline                 +2% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Marlboro County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-20% compared to baseline                       +4% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -22% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+McCormick County
+
+Retail & recreation
+                        *                       Grocery & pharmacy
+                                                                     *                    Parks
+                                                                                                  *
+-36% compared to baseline                       +30% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace
+                                                             *                            Residential
+                                                                                                        *
+Not enough data for this date                   -30% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Newberry County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-22% compared to baseline                       +1% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations                                Workplace                                 Residential
+                                                                                                        *
+-31% compared to baseline                       -25% compared to baseline                 +10% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Oconee County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-26% compared to baseline                       -6% compared to baseline                  +2% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
+Not enough data for this date                   -28% compared to baseline                 +8% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Orangeburg County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-34% compared to baseline                       -5% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-31% compared to baseline                       -24% compared to baseline                 +8% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8      Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Pickens County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-35% compared to baseline                       -10% compared to baseline                 +3% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
+Not enough data for this date                   -35% compared to baseline                 +9% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+
+Richland County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-43% compared to baseline                       -19% compared to baseline                 -37% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-21% compared to baseline                       -35% compared to baseline                 +11% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Saluda County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-36% compared to baseline                       -1% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -26% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Spartanburg County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-34% compared to baseline                       -11% compared to baseline                 +10% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-57% compared to baseline                       -34% compared to baseline                 +9% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Sumter County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-33% compared to baseline                       -6% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+
+-32% compared to baseline                       -31% compared to baseline                 +8% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Union County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-24% compared to baseline                       +1% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -23% compared to baseline                 +4% compared to baseline
+  +80%                                            +80%                                      +80%
+  +40%                                            +40%                                      +40%
+Baseline                                        Baseline                                  Baseline
+   -40%                                            -40%                                      -40%
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+Williamsburg County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+                                                                                                  *
+-21% compared to baseline                       -2% compared to baseline                  Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+Transit stations
+                   *                            Workplace                                 Residential
+                                                                                                        *
+Not enough data for this date                   -19% compared to baseline                 Not enough data for this date
+
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+
+York County
+
+Retail & recreation                             Grocery & pharmacy                        Parks
+
+-33% compared to baseline                       -16% compared to baseline                 +31% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+Transit stations                                Workplace                                 Residential
+
+-34% compared to baseline                       -35% compared to baseline                 +10% compared to baseline
+  +80%                                            +80%                                      +80%
+
+  +40%                                            +40%                                      +40%
+
+Baseline                                        Baseline                                  Baseline
+
+   -40%                                            -40%                                      -40%
+
+   -80%                                            -80%                                      -80%
+    Sun Feb 16         Sun Mar 8   Sun Mar 29       Sun Feb 16   Sun Mar 8   Sun Mar 29       Sun Feb 16    Sun Mar 8     Sun Mar 29
+
+
+
+* Not enough data for this date: Currently, there is not enough data to provide a complete analysis of this place. Google
+  needs a significant volume of data to generate an aggregated and anonymous view of trends.
+About this data                                  Preserving privacy
+These reports show how visits and length of      These reports were developed to be helpful
+stay at different places change compared to      while adhering to our stringent privacy
+a baseline. We calculate these changes using     protocols and protecting people’s privacy. No
+the same kind of aggregated and anonymized       personally identifiable information, like an
+data used to show popular times for places in    individual’s location, contacts or movement, is
+Google Maps.                                     made available at any point.
+
+Changes for each day are compared to a           Insights in these reports are created with
+baseline value for that day of the week:         aggregated, anonymized sets of data from
+                                                 users who have turned on the Location
+●   The baseline is the median value, for the    History setting, which is off by default. People
+corresponding day of the week, during the 5-     who have Location History turned on can
+week period Jan 3–Feb 6, 2020.                   choose to turn it off at any time from their
+                                                 Google Account and can always delete
+●    The reports show trends over several        Location History data directly from their
+weeks with the most recent data representing     Timeline.
+approximately 2-3 days ago—this is how long
+it takes to produce the reports.                 These reports are powered by the same
+                                                 world-class anonymization technology that
+What data is included in the calculation         we use in our products every day and that
+depends on user settings, connectivity, and      keep your activity data private and secure.
+whether it meets our privacy threshold. If the   These reports use differential privacy, which
+privacy threshold isn’t met (when somewhere      adds artificial noise to our datasets enabling
+isn’t busy enough to ensure anonymity) we        high quality results without identifying any
+don’t show a change for the day.                 individual person. These privacy-preserving
+                                                 protections also ensure that the absolute
+We include categories that are useful to
+                                                 number of visits isn’t shared.
+social distancing efforts as well as access to
+essential services.                              To get the latest report, visit
+                                                 google.com/covid19/mobility
+We calculate these insights based on data
+from users who have opted-in to Location
+History for their Google Account, so the data
+represents a sample of our users. As with all
+samples, this may or may not represent the
+exact behavior of a wider population.
+
