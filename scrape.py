@@ -80,7 +80,7 @@ def parse_section(f,text):
 
 	# get some metadata from file name
 	country = f.split(os.sep)[-1].split('_')[1]	
-	area = ' '.join(f.split(os.sep)[-1].split('_')[2:]).split('Mobility')[0]
+	area = ' '.join(f.split(os.sep)[-1].split('_')[2:]).split('Mobility')[0].strip()
 	if area == '':
 		area = 'n/a'
 

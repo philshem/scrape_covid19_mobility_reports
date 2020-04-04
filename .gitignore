@@ -1,5 +1,6 @@
 .DS_Store
 *.twb
+*.twbx
 pdf/*.pdf
 
 # Byte-compiled / optimized / DLL files
