@@ -6,10 +6,21 @@ Tries to make the data machine readable.
 
 More to come.
 
-Use this fabulous bash crawler for fetching the pdfs: https://github.com/patrikpolyak/google_covid19_community_mobility_reports_data/blob/master/fetch_pdfs.sh
+Many thanks to this fabulous bash crawler for fetching the PDFs: https://github.com/patrikpolyak/google_covid19_community_mobility_reports_data/blob/master/fetch_pdfs.sh
 
 
-# convert pdf to text
+## just give me the data
+
+
+Two formats, will be expanded with multiple dates:
+
+CSV: https://raw.githubusercontent.com/philshem/scrape_covid19_mobility_reports/master/data/mobility_reports.csv
+
+JSON: https://raw.githubusercontent.com/philshem/scrape_covid19_mobility_reports/master/data/mobility_reports.json
+
+
+
+## convert all PDFs to TXT
 
     cd pdf
     for file in *.pdf; do pdftotext -layout "$file" "$file.txt"; done
@@ -25,4 +36,7 @@ Ubuntu/Debian
     sudo apt-get install libpoppler-cpp-dev
 
 
+Conda/Windows
 
+
+    conda install -c conda-forge poppler 
