@@ -3,6 +3,7 @@ US,2020-03-29,Anderson County,+1%,n/a,+11%,-23%,-17%,-22%
 US,2020-03-29,Andrews County,-22%,n/a,n/a,-28%,+32%,-33%
 US,2020-03-29,Angelina County,-9%,-45%,+12%,-38%,-25%,-25%
 US,2020-03-29,Aransas County,-31%,-67%,+10%,-48%,n/a,-29%
+US,2020-03-29,Archer County,n/a,n/a,n/a,n/a,n/a,-27%
 US,2020-03-29,Atascosa County,-24%,n/a,+17%,-23%,-65%,-24%
 US,2020-03-29,Austin County,-6%,n/a,+1%,-32%,n/a,-24%
 US,2020-03-29,Bailey County,-14%,n/a,n/a,-29%,n/a,-31%
@@ -33,6 +34,7 @@ US,2020-03-29,Chambers County,-19%,n/a,+20%,-42%,-39%,-27%
 US,2020-03-29,Cherokee County,-5%,n/a,+12%,-22%,n/a,-22%
 US,2020-03-29,Childress County,-31%,n/a,n/a,-25%,-11%,-32%
 US,2020-03-29,Clay County,n/a,n/a,n/a,-53%,-10%,-24%
+US,2020-03-29,Coke County,-21%,n/a,n/a,n/a,n/a,n/a
 US,2020-03-29,Coleman County,-16%,n/a,n/a,-18%,n/a,-20%
 US,2020-03-29,Collin County,-33%,-11%,+14%,-50%,-37%,-45%
 US,2020-03-29,Colorado County,-8%,n/a,n/a,-36%,-31%,-18%
@@ -41,6 +43,7 @@ US,2020-03-29,Comanche County,-22%,n/a,n/a,-9%,n/a,-25%
 US,2020-03-29,Cooke County,-3%,-8%,+16%,-28%,-33%,-32%
 US,2020-03-29,Coryell County,-18%,+35%,+11%,-29%,n/a,-27%
 US,2020-03-29,Crane County,-27%,n/a,n/a,-39%,n/a,-37%
+US,2020-03-29,Crockett County,-27%,n/a,n/a,n/a,n/a,n/a
 US,2020-03-29,Crosby County,-15%,n/a,n/a,n/a,n/a,-35%
 US,2020-03-29,Culberson County,n/a,n/a,n/a,-46%,-30%,n/a
 US,2020-03-29,Dallam County,-12%,n/a,n/a,-34%,n/a,-10%
@@ -48,8 +51,10 @@ US,2020-03-29,Dallas County,-21%,-24%,+14%,-45%,-45%,-38%
 US,2020-03-29,Dawson County,-10%,n/a,n/a,-36%,n/a,-26%
 US,2020-03-29,DeWitt County,-22%,n/a,n/a,-30%,n/a,-19%
 US,2020-03-29,Deaf Smith County,-12%,n/a,n/a,-24%,-13%,-18%
+US,2020-03-29,Delta County,n/a,n/a,n/a,n/a,n/a,-37%
 US,2020-03-29,Denton County,-27%,+1%,+14%,-47%,-30%,-42%
 US,2020-03-29,Dimmit County,-17%,n/a,n/a,-19%,-34%,-30%
+US,2020-03-29,Donley County,n/a,n/a,n/a,n/a,+9%,n/a
 US,2020-03-29,Duval County,-28%,n/a,n/a,-46%,n/a,-36%
 US,2020-03-29,Eastland County,-15%,n/a,n/a,-31%,-27%,-28%
 US,2020-03-29,Ector County,-5%,n/a,+10%,-32%,-8%,-24%
@@ -59,12 +64,14 @@ US,2020-03-29,Erath County,-32%,n/a,+10%,-47%,n/a,-25%
 US,2020-03-29,Falls County,-13%,n/a,n/a,-19%,n/a,-10%
 US,2020-03-29,Fannin County,-2%,n/a,+11%,-11%,n/a,-25%
 US,2020-03-29,Fayette County,-25%,n/a,n/a,-35%,-33%,-17%
+US,2020-03-29,Floyd County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Fort Bend County,-26%,-2%,+15%,-49%,-26%,-41%
 US,2020-03-29,Franklin County,+4%,n/a,n/a,-33%,-23%,-24%
 US,2020-03-29,Freestone County,-4%,n/a,n/a,-52%,-41%,-22%
 US,2020-03-29,Frio County,-22%,n/a,n/a,-21%,-27%,-19%
 US,2020-03-29,Gaines County,-8%,n/a,n/a,-28%,n/a,-20%
 US,2020-03-29,Galveston County,-15%,-29%,+12%,-42%,-57%,-35%
+US,2020-03-29,Garza County,-13%,n/a,n/a,-31%,n/a,n/a
 US,2020-03-29,Gillespie County,-25%,-38%,n/a,-46%,n/a,-36%
 US,2020-03-29,Goliad County,-38%,n/a,n/a,-54%,n/a,-32%
 US,2020-03-29,Gonzales County,-13%,-19%,n/a,-30%,n/a,-20%
@@ -74,11 +81,14 @@ US,2020-03-29,Gregg County,-21%,+2%,+11%,-43%,n/a,-31%
 US,2020-03-29,Grimes County,-3%,n/a,+0%,-17%,n/a,-21%
 US,2020-03-29,Guadalupe County,-24%,-1%,+12%,-34%,-23%,-37%
 US,2020-03-29,Hale County,-13%,n/a,+11%,-29%,n/a,-27%
+US,2020-03-29,Hall County,n/a,n/a,n/a,n/a,-13%,n/a
 US,2020-03-29,Hamilton County,-32%,n/a,n/a,-41%,n/a,-22%
 US,2020-03-29,Hardeman County,-24%,n/a,n/a,n/a,-16%,n/a
 US,2020-03-29,Hardin County,-13%,n/a,+16%,-45%,n/a,-32%
 US,2020-03-29,Harris County,-23%,-22%,+14%,-46%,-58%,-38%
 US,2020-03-29,Harrison County,-7%,-16%,+15%,-28%,n/a,-31%
+US,2020-03-29,Hartley County,-4%,n/a,n/a,n/a,n/a,n/a
+US,2020-03-29,Haskell County,-22%,n/a,n/a,-16%,n/a,n/a
 US,2020-03-29,Hays County,-22%,-23%,+13%,-46%,-19%,-36%
 US,2020-03-29,Henderson County,-3%,-22%,+9%,-30%,n/a,-28%
 US,2020-03-29,Hidalgo County,-43%,-74%,+18%,-63%,-64%,-43%
@@ -94,6 +104,7 @@ US,2020-03-29,Jack County,n/a,n/a,n/a,-9%,n/a,-26%
 US,2020-03-29,Jackson County,-19%,n/a,n/a,-21%,-44%,-21%
 US,2020-03-29,Jasper County,-24%,+25%,+6%,-36%,n/a,-30%
 US,2020-03-29,Jefferson County,-22%,+4%,+12%,-49%,-35%,-33%
+US,2020-03-29,Jim Hogg County,-29%,n/a,n/a,n/a,n/a,n/a
 US,2020-03-29,Jim Wells County,-22%,n/a,+14%,-38%,n/a,-28%
 US,2020-03-29,Johnson County,-18%,+19%,+11%,-33%,n/a,-31%
 US,2020-03-29,Jones County,-8%,n/a,n/a,-36%,n/a,-18%
@@ -114,7 +125,9 @@ US,2020-03-29,Liberty County,-2%,n/a,+11%,-38%,-14%,-28%
 US,2020-03-29,Limestone County,-15%,n/a,n/a,-26%,n/a,-24%
 US,2020-03-29,Live Oak County,-35%,n/a,n/a,-68%,-52%,-39%
 US,2020-03-29,Llano County,-3%,+10%,n/a,-26%,n/a,-32%
+US,2020-03-29,Loving County,-58%,n/a,n/a,n/a,n/a,n/a
 US,2020-03-29,Lubbock County,-14%,+17%,+10%,-37%,-36%,-28%
+US,2020-03-29,Lynn County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Madison County,-63%,n/a,n/a,-36%,n/a,-29%
 US,2020-03-29,Marion County,-12%,n/a,n/a,-30%,n/a,-26%
 US,2020-03-29,Martin County,-13%,n/a,n/a,-12%,n/a,-32%
@@ -122,6 +135,7 @@ US,2020-03-29,Matagorda County,-16%,n/a,+13%,-34%,n/a,-9%
 US,2020-03-29,Maverick County,-36%,-82%,+19%,-56%,-62%,-36%
 US,2020-03-29,McCulloch County,-10%,n/a,n/a,-27%,n/a,-14%
 US,2020-03-29,McLennan County,-22%,-12%,+10%,-43%,-34%,-34%
+US,2020-03-29,McMullen County,n/a,n/a,n/a,n/a,-50%,n/a
 US,2020-03-29,Medina County,-8%,-54%,+19%,-24%,-30%,-30%
 US,2020-03-29,Midland County,-19%,-45%,+12%,-41%,-24%,-25%
 US,2020-03-29,Milam County,-20%,n/a,n/a,-35%,n/a,-27%
@@ -136,6 +150,7 @@ US,2020-03-29,Newton County,+0%,n/a,n/a,n/a,n/a,-35%
 US,2020-03-29,Nolan County,-10%,n/a,n/a,-36%,-31%,-18%
 US,2020-03-29,Nueces County,-25%,-40%,+13%,-46%,-45%,-34%
 US,2020-03-29,Ochiltree County,-14%,n/a,n/a,-44%,n/a,-26%
+US,2020-03-29,Oldham County,n/a,n/a,n/a,n/a,-5%,n/a
 US,2020-03-29,Orange County,-18%,-38%,+11%,-35%,-37%,-32%
 US,2020-03-29,Palo Pinto County,-1%,n/a,+8%,-19%,-34%,-29%
 US,2020-03-29,Panola County,+0%,n/a,n/a,-21%,-22%,-28%
@@ -159,12 +174,15 @@ US,2020-03-29,Sabine County,+13%,n/a,n/a,-17%,n/a,-34%
 US,2020-03-29,San Augustine County,-9%,n/a,n/a,-62%,n/a,-34%
 US,2020-03-29,San Jacinto County,+7%,-42%,+5%,-31%,n/a,-29%
 US,2020-03-29,San Patricio County,-23%,-30%,+12%,-38%,-33%,-24%
+US,2020-03-29,San Saba County,n/a,n/a,n/a,-12%,n/a,n/a
 US,2020-03-29,Scurry County,-21%,n/a,n/a,-32%,n/a,-18%
 US,2020-03-29,Shelby County,-3%,n/a,n/a,-29%,n/a,-27%
+US,2020-03-29,Sherman County,n/a,n/a,n/a,n/a,+0%,n/a
 US,2020-03-29,Smith County,-28%,-21%,+13%,-52%,-36%,-34%
 US,2020-03-29,Somervell County,-6%,n/a,n/a,-37%,n/a,-34%
 US,2020-03-29,Starr County,-31%,-57%,+25%,-54%,n/a,-29%
 US,2020-03-29,Stephens County,n/a,n/a,n/a,-32%,n/a,-19%
+US,2020-03-29,Sutton County,-29%,n/a,n/a,-53%,n/a,n/a
 US,2020-03-29,Swisher County,-4%,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Tarrant County,-20%,-16%,+13%,-48%,-71%,-36%
 US,2020-03-29,Taylor County,-14%,n/a,+9%,-34%,-7%,-25%
@@ -175,6 +193,7 @@ US,2020-03-29,Travis County,-29%,-19%,+15%,-54%,-72%,-44%
 US,2020-03-29,Trinity County,+9%,n/a,n/a,-42%,n/a,-26%
 US,2020-03-29,Tyler County,+11%,n/a,n/a,-45%,n/a,-32%
 US,2020-03-29,Upshur County,+2%,n/a,+15%,-24%,n/a,-31%
+US,2020-03-29,Upton County,-21%,n/a,n/a,n/a,n/a,n/a
 US,2020-03-29,Uvalde County,-31%,n/a,n/a,-43%,n/a,-28%
 US,2020-03-29,Val Verde County,-35%,-53%,+21%,-55%,n/a,-32%
 US,2020-03-29,Van Zandt County,-16%,+7%,+13%,-33%,-18%,-25%
@@ -185,6 +204,7 @@ US,2020-03-29,Ward County,-16%,n/a,n/a,-34%,+35%,-15%
 US,2020-03-29,Washington County,-14%,n/a,-2%,-25%,n/a,-27%
 US,2020-03-29,Webb County,-38%,-78%,+16%,-55%,-43%,-35%
 US,2020-03-29,Wharton County,-36%,n/a,+15%,-25%,-36%,-20%
+US,2020-03-29,Wheeler County,n/a,n/a,n/a,-41%,n/a,n/a
 US,2020-03-29,Wichita County,-30%,-11%,+11%,-50%,-24%,-32%
 US,2020-03-29,Wilbarger County,-12%,n/a,n/a,-20%,-17%,-9%
 US,2020-03-29,Willacy County,-36%,n/a,n/a,-51%,n/a,-34%
@@ -254,6 +274,7 @@ US,2020-03-29,Ventura County,-24%,-24%,+14%,-46%,-40%,-39%
 US,2020-03-29,Yolo County,-23%,+2%,+13%,-43%,-34%,-37%
 US,2020-03-29,Yuba County,-12%,+24%,+13%,-34%,-34%,-38%
 US,2020-03-29,Adams County,-15%,n/a,+16%,-42%,-30%,-27%
+US,2020-03-29,Alexander County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Bond County,-2%,n/a,n/a,-36%,-5%,-21%
 US,2020-03-29,Boone County,-23%,n/a,+21%,-41%,-65%,-38%
 US,2020-03-29,Bureau County,-9%,n/a,+3%,-43%,n/a,-25%
@@ -273,6 +294,7 @@ US,2020-03-29,DeKalb County,-20%,n/a,+14%,-52%,n/a,-37%
 US,2020-03-29,Douglas County,-3%,n/a,n/a,-53%,n/a,-30%
 US,2020-03-29,DuPage County,-29%,-42%,+15%,-60%,-51%,-45%
 US,2020-03-29,Edgar County,-20%,n/a,n/a,-25%,n/a,-38%
+US,2020-03-29,Edwards County,n/a,n/a,n/a,n/a,n/a,-39%
 US,2020-03-29,Effingham County,-2%,n/a,+12%,-42%,-26%,-36%
 US,2020-03-29,Fayette County,-16%,n/a,n/a,-33%,n/a,-19%
 US,2020-03-29,Ford County,-18%,n/a,n/a,-59%,n/a,-22%
@@ -282,6 +304,7 @@ US,2020-03-29,Greene County,-2%,n/a,n/a,-46%,n/a,-21%
 US,2020-03-29,Grundy County,-24%,n/a,+19%,-43%,-22%,-34%
 US,2020-03-29,Hamilton County,n/a,n/a,n/a,-50%,n/a,-33%
 US,2020-03-29,Hancock County,-16%,n/a,n/a,-44%,n/a,-24%
+US,2020-03-29,Henderson County,n/a,n/a,n/a,n/a,n/a,-23%
 US,2020-03-29,Henry County,-18%,n/a,+18%,-44%,-35%,-31%
 US,2020-03-29,Iroquois County,-2%,n/a,+3%,-38%,-39%,-24%
 US,2020-03-29,Jackson County,-14%,+22%,+18%,-47%,n/a,-33%
@@ -321,6 +344,8 @@ US,2020-03-29,Peoria County,-19%,-16%,+11%,-50%,-45%,-35%
 US,2020-03-29,Perry County,-4%,n/a,n/a,-35%,n/a,-28%
 US,2020-03-29,Piatt County,n/a,n/a,n/a,-55%,n/a,-26%
 US,2020-03-29,Pike County,-11%,n/a,n/a,-36%,n/a,-19%
+US,2020-03-29,Pulaski County,n/a,n/a,n/a,n/a,n/a,-33%
+US,2020-03-29,Putnam County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Randolph County,+9%,n/a,+10%,-24%,n/a,-24%
 US,2020-03-29,Richland County,-11%,n/a,n/a,-32%,n/a,-19%
 US,2020-03-29,Rock Island County,+0%,-55%,+10%,-50%,-57%,-36%
@@ -329,6 +354,7 @@ US,2020-03-29,Sangamon County,-18%,+31%,+10%,-47%,-38%,-36%
 US,2020-03-29,Schuyler County,n/a,n/a,n/a,-55%,n/a,-29%
 US,2020-03-29,Shelby County,n/a,n/a,n/a,-20%,n/a,-31%
 US,2020-03-29,St. Clair County,-13%,+52%,+10%,-45%,-26%,-34%
+US,2020-03-29,Stark County,n/a,n/a,n/a,n/a,n/a,-36%
 US,2020-03-29,Stephenson County,-27%,n/a,+17%,-44%,n/a,-30%
 US,2020-03-29,Tazewell County,-9%,-15%,+11%,-41%,n/a,-33%
 US,2020-03-29,Union County,-5%,n/a,n/a,-8%,n/a,-23%
@@ -414,6 +440,7 @@ US,2020-03-29,Jackson County,-32%,n/a,n/a,-33%,-11%,-33%
 US,2020-03-29,Jefferson County,-39%,+17%,+20%,-39%,n/a,-43%
 US,2020-03-29,Kanawha County,-14%,-2%,+8%,-44%,-43%,-33%
 US,2020-03-29,Lewis County,-7%,n/a,n/a,-33%,n/a,-40%
+US,2020-03-29,Lincoln County,n/a,n/a,n/a,n/a,n/a,-39%
 US,2020-03-29,Logan County,-16%,n/a,n/a,-32%,n/a,-24%
 US,2020-03-29,Marion County,-21%,n/a,+20%,-38%,n/a,-34%
 US,2020-03-29,Marshall County,-18%,n/a,+1%,-29%,n/a,-27%
@@ -423,6 +450,7 @@ US,2020-03-29,Mercer County,-16%,-36%,+15%,-44%,-30%,-35%
 US,2020-03-29,Mineral County,-4%,n/a,-2%,-28%,n/a,-24%
 US,2020-03-29,Mingo County,n/a,n/a,n/a,-63%,n/a,-37%
 US,2020-03-29,Monongalia County,-23%,+60%,+25%,-48%,-35%,-44%
+US,2020-03-29,Monroe County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Morgan County,-19%,n/a,n/a,-38%,n/a,-34%
 US,2020-03-29,Nicholas County,-12%,n/a,n/a,-28%,n/a,-30%
 US,2020-03-29,Ohio County,+11%,-34%,+16%,-40%,-19%,-38%
@@ -437,8 +465,10 @@ US,2020-03-29,Roane County,n/a,n/a,n/a,-25%,n/a,-42%
 US,2020-03-29,Summers County,n/a,n/a,n/a,+4%,n/a,-39%
 US,2020-03-29,Taylor County,-32%,n/a,n/a,-13%,n/a,-41%
 US,2020-03-29,Tucker County,-14%,n/a,n/a,n/a,n/a,-37%
+US,2020-03-29,Tyler County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Upshur County,-24%,n/a,n/a,-28%,n/a,-25%
 US,2020-03-29,Wayne County,-10%,n/a,+0%,-1%,n/a,-28%
+US,2020-03-29,Webster County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Wetzel County,-15%,n/a,n/a,-39%,n/a,-31%
 US,2020-03-29,Wood County,-12%,-21%,+9%,-40%,n/a,-31%
 US,2020-03-29,Wyoming County,n/a,n/a,n/a,-66%,n/a,-32%
@@ -494,6 +524,7 @@ US,2020-03-29,Marion County,-23%,-26%,+12%,-48%,-33%,-34%
 US,2020-03-29,Morrow County,n/a,n/a,n/a,-51%,-7%,-19%
 US,2020-03-29,Multnomah County,-29%,-23%,+14%,-61%,-58%,-41%
 US,2020-03-29,Polk County,-23%,-5%,+13%,-42%,n/a,-39%
+US,2020-03-29,Sherman County,n/a,n/a,n/a,n/a,-37%,n/a
 US,2020-03-29,Tillamook County,-27%,-50%,-1%,-61%,n/a,-37%
 US,2020-03-29,Umatilla County,-6%,-13%,+8%,-30%,-23%,-28%
 US,2020-03-29,Union County,-35%,n/a,+0%,-39%,-17%,-29%
@@ -509,7 +540,9 @@ US,2020-03-29,Elko County,+10%,+7%,+17%,-40%,-11%,-35%
 US,2020-03-29,Humboldt County,-1%,n/a,n/a,-46%,-40%,-20%
 US,2020-03-29,Lander County,-12%,n/a,n/a,-59%,n/a,-41%
 US,2020-03-29,Lyon County,-5%,n/a,+15%,-14%,-10%,-27%
+US,2020-03-29,Mineral County,n/a,n/a,n/a,n/a,-29%,n/a
 US,2020-03-29,Nye County,-15%,-52%,+13%,-26%,-20%,-40%
+US,2020-03-29,Pershing County,n/a,n/a,n/a,n/a,+6%,-32%
 US,2020-03-29,Storey County,n/a,n/a,n/a,-73%,n/a,-38%
 US,2020-03-29,Washoe County,-21%,+6%,+12%,-44%,-64%,-42%
 US,2020-03-29,White Pine County,-4%,n/a,n/a,-65%,-4%,-23%
@@ -522,7 +555,9 @@ US,2020-03-29,Amherst County,-7%,n/a,+8%,-9%,n/a,-23%
 US,2020-03-29,Appomattox County,+2%,n/a,n/a,-20%,n/a,-30%
 US,2020-03-29,Arlington County,-32%,+8%,+16%,-62%,-82%,-50%
 US,2020-03-29,Augusta County,-16%,-22%,+8%,-39%,+52%,-22%
+US,2020-03-29,Bath County,n/a,-70%,n/a,n/a,n/a,n/a
 US,2020-03-29,Bedford County,-8%,n/a,+14%,-27%,n/a,-34%
+US,2020-03-29,Bland County,n/a,n/a,n/a,n/a,-19%,-32%
 US,2020-03-29,Botetourt County,-11%,n/a,+14%,-59%,-20%,-44%
 US,2020-03-29,Bristol,-12%,n/a,n/a,-20%,n/a,-32%
 US,2020-03-29,Brunswick County,n/a,n/a,n/a,-37%,-50%,-11%
@@ -532,6 +567,7 @@ US,2020-03-29,Buena Vista,-14%,n/a,n/a,-31%,n/a,-38%
 US,2020-03-29,Campbell County,-13%,n/a,+13%,-26%,n/a,-33%
 US,2020-03-29,Caroline County,-20%,-70%,+17%,-42%,-37%,-26%
 US,2020-03-29,Carroll County,+12%,n/a,+4%,-15%,-16%,-19%
+US,2020-03-29,Charles City County,n/a,n/a,n/a,n/a,n/a,-34%
 US,2020-03-29,Charlotte County,+20%,n/a,n/a,-20%,n/a,-28%
 US,2020-03-29,Charlottesville,-30%,-39%,+15%,-68%,-58%,-49%
 US,2020-03-29,Chesapeake,-18%,+35%,+9%,-35%,-18%,-36%
@@ -539,6 +575,7 @@ US,2020-03-29,Chesterfield County,-21%,+27%,+10%,-40%,-19%,-39%
 US,2020-03-29,Clarke County,-19%,n/a,n/a,-43%,n/a,-36%
 US,2020-03-29,Colonial Heights,-26%,n/a,n/a,-46%,n/a,-34%
 US,2020-03-29,Covington,-9%,n/a,n/a,-27%,n/a,-26%
+US,2020-03-29,Craig County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Culpeper County,-12%,n/a,+16%,-33%,n/a,-28%
 US,2020-03-29,Cumberland County,-24%,n/a,n/a,-62%,n/a,-28%
 US,2020-03-29,Danville,-9%,n/a,+11%,-35%,-14%,-35%
@@ -560,7 +597,9 @@ US,2020-03-29,Galax,+15%,n/a,n/a,-26%,n/a,-32%
 US,2020-03-29,Giles County,+0%,n/a,n/a,-19%,n/a,-16%
 US,2020-03-29,Gloucester County,+12%,n/a,+15%,-27%,n/a,-26%
 US,2020-03-29,Goochland County,-22%,n/a,n/a,-43%,n/a,-38%
+US,2020-03-29,Grayson County,n/a,n/a,n/a,n/a,n/a,-18%
 US,2020-03-29,Greene County,-15%,n/a,n/a,-18%,n/a,-33%
+US,2020-03-29,Greensville County,n/a,n/a,n/a,n/a,-24%,-18%
 US,2020-03-29,Halifax County,-11%,n/a,+12%,-24%,n/a,-28%
 US,2020-03-29,Hampton,-6%,+117%,+10%,-34%,-8%,-32%
 US,2020-03-29,Hanover County,-23%,n/a,+20%,-37%,-25%,-38%
@@ -572,8 +611,10 @@ US,2020-03-29,Isle of Wight County,-11%,n/a,+18%,-26%,n/a,-33%
 US,2020-03-29,James City County,-2%,-2%,+19%,-59%,n/a,-47%
 US,2020-03-29,King George County,-37%,n/a,+0%,-31%,-28%,-31%
 US,2020-03-29,King William County,-7%,n/a,n/a,-13%,n/a,-20%
+US,2020-03-29,King and Queen County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Lancaster County,-2%,n/a,n/a,-9%,n/a,-25%
 US,2020-03-29,Lee County,+10%,n/a,n/a,-18%,n/a,-13%
+US,2020-03-29,Lexington,-14%,n/a,n/a,-61%,n/a,n/a
 US,2020-03-29,Loudoun County,-24%,-11%,+15%,-50%,-80%,-44%
 US,2020-03-29,Louisa County,-13%,n/a,+17%,-22%,n/a,-32%
 US,2020-03-29,Lunenburg County,-2%,n/a,n/a,n/a,n/a,-29%
@@ -592,6 +633,7 @@ US,2020-03-29,Newport News,-10%,+55%,+9%,-37%,-32%,-31%
 US,2020-03-29,Norfolk,-8%,+37%,+9%,-36%,-56%,-31%
 US,2020-03-29,Northampton County,-22%,n/a,n/a,-32%,n/a,-14%
 US,2020-03-29,Northumberland County,-18%,n/a,n/a,-31%,n/a,-24%
+US,2020-03-29,Norton,n/a,n/a,n/a,-29%,n/a,n/a
 US,2020-03-29,Nottoway County,+38%,n/a,n/a,-30%,n/a,-11%
 US,2020-03-29,Orange County,-15%,n/a,+11%,-25%,n/a,-23%
 US,2020-03-29,Page County,+3%,-17%,n/a,-14%,n/a,-33%
@@ -606,6 +648,7 @@ US,2020-03-29,Prince George County,-31%,n/a,+17%,-29%,-32%,-28%
 US,2020-03-29,Prince William County,-22%,+30%,+13%,-45%,-27%,-40%
 US,2020-03-29,Pulaski County,+1%,n/a,+13%,-13%,n/a,-31%
 US,2020-03-29,Radford,-11%,n/a,n/a,-59%,n/a,-33%
+US,2020-03-29,Rappahannock County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Richmond,-11%,+83%,+10%,-47%,-19%,-37%
 US,2020-03-29,Richmond County,-25%,n/a,n/a,-34%,n/a,-19%
 US,2020-03-29,Roanoke,-7%,+49%,+8%,-44%,-43%,-33%
@@ -622,6 +665,7 @@ US,2020-03-29,Spotsylvania County,-17%,n/a,+10%,-42%,n/a,-40%
 US,2020-03-29,Stafford County,-29%,+99%,+12%,-32%,n/a,-40%
 US,2020-03-29,Staunton,-15%,n/a,+0%,-33%,n/a,-32%
 US,2020-03-29,Suffolk,-7%,-16%,+9%,-32%,-9%,-29%
+US,2020-03-29,Surry County,n/a,n/a,n/a,n/a,n/a,-36%
 US,2020-03-29,Sussex County,+18%,n/a,n/a,-38%,-48%,-17%
 US,2020-03-29,Tazewell County,+6%,n/a,+10%,-22%,n/a,-30%
 US,2020-03-29,Virginia Beach,-13%,+38%,+9%,-37%,-3%,-36%
@@ -636,6 +680,7 @@ US,2020-03-29,Wythe County,-17%,n/a,-2%,-39%,-4%,-26%
 US,2020-03-29,York County,-20%,+31%,+23%,-31%,n/a,-43%
 US,2020-03-29,Beaverhead County,-11%,n/a,n/a,-31%,n/a,-31%
 US,2020-03-29,Big Horn County,-7%,n/a,n/a,-51%,-13%,-28%
+US,2020-03-29,Blaine County,n/a,n/a,n/a,n/a,n/a,-41%
 US,2020-03-29,Broadwater County,-3%,n/a,n/a,-62%,n/a,-33%
 US,2020-03-29,Carbon County,-30%,n/a,n/a,-63%,n/a,-45%
 US,2020-03-29,Cascade County,-26%,-22%,+12%,-48%,-70%,-32%
@@ -655,12 +700,16 @@ US,2020-03-29,Madison County,n/a,-42%,n/a,-100%,n/a,-44%
 US,2020-03-29,Mineral County,-54%,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Missoula County,-30%,+31%,+11%,-55%,-28%,-36%
 US,2020-03-29,Park County,-29%,n/a,n/a,-54%,n/a,-44%
+US,2020-03-29,Pondera County,n/a,n/a,n/a,-53%,n/a,n/a
+US,2020-03-29,Powell County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Ravalli County,-20%,n/a,+11%,-49%,n/a,-39%
 US,2020-03-29,Richland County,-22%,n/a,n/a,-36%,n/a,-41%
 US,2020-03-29,Roosevelt County,-20%,n/a,n/a,-25%,n/a,-42%
+US,2020-03-29,Rosebud County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Sanders County,-27%,n/a,n/a,-62%,n/a,-36%
 US,2020-03-29,Silver Bow County,-15%,n/a,+13%,-45%,-20%,-37%
 US,2020-03-29,Stillwater County,n/a,n/a,n/a,-47%,-4%,-33%
+US,2020-03-29,Teton County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Valley County,n/a,n/a,n/a,-64%,n/a,-28%
 US,2020-03-29,Yellowstone County,-21%,+114%,+8%,-49%,-45%,-32%
 US,2020-03-29,Alcona County,n/a,n/a,n/a,+1%,n/a,-45%
@@ -709,6 +758,7 @@ US,2020-03-29,Lapeer County,-30%,-38%,+27%,-52%,n/a,-46%
 US,2020-03-29,Leelanau County,-12%,n/a,n/a,-67%,n/a,-49%
 US,2020-03-29,Lenawee County,-23%,n/a,+11%,-55%,n/a,-42%
 US,2020-03-29,Livingston County,-29%,+11%,+12%,-65%,n/a,-46%
+US,2020-03-29,Luce County,n/a,n/a,n/a,-67%,n/a,n/a
 US,2020-03-29,Mackinac County,-39%,n/a,n/a,-71%,n/a,-52%
 US,2020-03-29,Macomb County,-30%,+106%,+13%,-59%,-33%,-48%
 US,2020-03-29,Manistee County,-17%,n/a,n/a,-71%,n/a,-40%
@@ -726,6 +776,7 @@ US,2020-03-29,Newaygo County,-13%,+40%,+23%,-49%,n/a,-34%
 US,2020-03-29,Oakland County,-35%,+31%,+14%,-65%,-50%,-50%
 US,2020-03-29,Oceana County,-5%,-26%,-1%,-69%,n/a,-35%
 US,2020-03-29,Ogemaw County,-14%,n/a,n/a,-47%,n/a,-45%
+US,2020-03-29,Ontonagon County,n/a,n/a,n/a,-46%,n/a,n/a
 US,2020-03-29,Osceola County,-5%,n/a,n/a,-66%,n/a,-42%
 US,2020-03-29,Oscoda County,-12%,n/a,n/a,-74%,n/a,-43%
 US,2020-03-29,Otsego County,-36%,n/a,-1%,-58%,n/a,-41%
@@ -828,17 +879,21 @@ US,2020-03-29,Barnes County,n/a,n/a,n/a,-22%,n/a,-25%
 US,2020-03-29,Bottineau County,n/a,n/a,n/a,-39%,n/a,-35%
 US,2020-03-29,Burleigh County,-14%,+26%,+11%,-44%,-56%,-25%
 US,2020-03-29,Cass County,-26%,+69%,+12%,-54%,-34%,-30%
+US,2020-03-29,Dunn County,-18%,-26%,n/a,-56%,n/a,n/a
 US,2020-03-29,Grand Forks County,-20%,-48%,+20%,-46%,-38%,-28%
 US,2020-03-29,McKenzie County,-15%,n/a,n/a,-40%,-25%,-14%
 US,2020-03-29,McLean County,n/a,n/a,n/a,-63%,n/a,-26%
 US,2020-03-29,Mercer County,+10%,n/a,n/a,n/a,n/a,-27%
 US,2020-03-29,Morton County,+2%,n/a,+17%,-33%,-12%,-24%
 US,2020-03-29,Mountrail County,-14%,n/a,n/a,-35%,n/a,-27%
+US,2020-03-29,Pembina County,n/a,n/a,n/a,n/a,n/a,-22%
 US,2020-03-29,Ramsey County,-27%,n/a,n/a,-39%,n/a,-29%
+US,2020-03-29,Ransom County,n/a,n/a,n/a,n/a,n/a,-13%
 US,2020-03-29,Richland County,-4%,n/a,n/a,-42%,n/a,-23%
 US,2020-03-29,Rolette County,n/a,n/a,n/a,-33%,n/a,-37%
 US,2020-03-29,Stark County,+18%,n/a,+14%,-29%,n/a,-10%
 US,2020-03-29,Stutsman County,-15%,n/a,n/a,-25%,n/a,-15%
+US,2020-03-29,Traill County,n/a,n/a,n/a,n/a,n/a,-31%
 US,2020-03-29,Walsh County,n/a,n/a,n/a,-26%,n/a,-22%
 US,2020-03-29,Ward County,-12%,n/a,+18%,-38%,-35%,-23%
 US,2020-03-29,Williams County,-6%,n/a,+14%,-30%,-25%,-21%
@@ -949,12 +1004,14 @@ US,2020-03-29,Bollinger County,-18%,n/a,n/a,-50%,n/a,-35%
 US,2020-03-29,Boone County,-18%,+65%,+10%,-55%,-58%,-36%
 US,2020-03-29,Buchanan County,+2%,n/a,+7%,-29%,-5%,-22%
 US,2020-03-29,Butler County,-5%,n/a,+10%,-23%,n/a,-20%
+US,2020-03-29,Caldwell County,n/a,n/a,n/a,n/a,n/a,-20%
 US,2020-03-29,Callaway County,-1%,n/a,+18%,-36%,n/a,-20%
 US,2020-03-29,Camden County,+16%,n/a,+13%,-28%,n/a,-36%
 US,2020-03-29,Cape Girardeau County,-20%,+0%,+12%,-43%,n/a,-33%
 US,2020-03-29,Carroll County,n/a,n/a,n/a,-28%,n/a,-19%
 US,2020-03-29,Cass County,-17%,+29%,+9%,-26%,-14%,-33%
 US,2020-03-29,Cedar County,-5%,n/a,n/a,-15%,n/a,-28%
+US,2020-03-29,Chariton County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Christian County,-10%,-19%,+13%,-30%,n/a,-33%
 US,2020-03-29,Clark County,-10%,n/a,n/a,n/a,-46%,-4%
 US,2020-03-29,Clay County,-17%,+214%,+10%,-32%,-30%,-38%
@@ -962,17 +1019,22 @@ US,2020-03-29,Clinton County,-8%,n/a,n/a,-76%,n/a,-31%
 US,2020-03-29,Cole County,-23%,n/a,+19%,-44%,n/a,-29%
 US,2020-03-29,Cooper County,-19%,n/a,n/a,-27%,-15%,-20%
 US,2020-03-29,Crawford County,-7%,n/a,n/a,-20%,-7%,-17%
+US,2020-03-29,Dade County,n/a,n/a,n/a,n/a,n/a,-13%
 US,2020-03-29,Dallas County,+8%,n/a,n/a,-11%,n/a,-16%
+US,2020-03-29,Daviess County,n/a,n/a,n/a,n/a,n/a,-13%
 US,2020-03-29,DeKalb County,+3%,n/a,n/a,-7%,n/a,-18%
 US,2020-03-29,Dent County,n/a,n/a,n/a,+0%,n/a,-5%
 US,2020-03-29,Douglas County,-14%,n/a,n/a,-5%,n/a,-21%
 US,2020-03-29,Dunklin County,+10%,n/a,n/a,-15%,n/a,-23%
 US,2020-03-29,Franklin County,+2%,+61%,+8%,-33%,-12%,-25%
 US,2020-03-29,Gasconade County,n/a,n/a,n/a,-22%,n/a,-25%
+US,2020-03-29,Gentry County,n/a,n/a,n/a,n/a,n/a,-34%
 US,2020-03-29,Greene County,-30%,+43%,+10%,-45%,-34%,-36%
 US,2020-03-29,Grundy County,-7%,n/a,n/a,-16%,n/a,-10%
 US,2020-03-29,Harrison County,-20%,n/a,n/a,-25%,-15%,-20%
 US,2020-03-29,Henry County,+2%,n/a,-1%,-9%,n/a,-20%
+US,2020-03-29,Hickory County,n/a,n/a,n/a,n/a,n/a,-2%
+US,2020-03-29,Howard County,n/a,n/a,n/a,n/a,n/a,-23%
 US,2020-03-29,Howell County,-16%,n/a,+12%,-36%,-24%,-28%
 US,2020-03-29,Iron County,+4%,+104%,n/a,-18%,n/a,-9%
 US,2020-03-29,Jackson County,-14%,+28%,+10%,-43%,-13%,-36%
@@ -988,6 +1050,7 @@ US,2020-03-29,Linn County,-7%,n/a,n/a,-19%,n/a,-7%
 US,2020-03-29,Livingston County,-6%,n/a,n/a,-15%,n/a,-25%
 US,2020-03-29,Macon County,-19%,n/a,n/a,-29%,-30%,-19%
 US,2020-03-29,Madison County,n/a,n/a,n/a,-5%,n/a,-22%
+US,2020-03-29,Maries County,n/a,n/a,n/a,n/a,n/a,-21%
 US,2020-03-29,Marion County,+1%,n/a,+13%,-38%,-46%,-26%
 US,2020-03-29,McDonald County,+9%,n/a,-4%,-9%,n/a,-25%
 US,2020-03-29,Miller County,+3%,-32%,-3%,-15%,n/a,-24%
@@ -1001,6 +1064,7 @@ US,2020-03-29,Newton County,-7%,+7%,+13%,-27%,-19%,-26%
 US,2020-03-29,Nodaway County,-10%,n/a,n/a,-30%,n/a,-16%
 US,2020-03-29,Oregon County,+4%,n/a,n/a,-2%,n/a,-19%
 US,2020-03-29,Osage County,-6%,n/a,n/a,-47%,n/a,-26%
+US,2020-03-29,Ozark County,n/a,n/a,n/a,n/a,n/a,-17%
 US,2020-03-29,Pemiscot County,+5%,n/a,n/a,-37%,-27%,-26%
 US,2020-03-29,Perry County,-13%,n/a,n/a,-33%,n/a,-33%
 US,2020-03-29,Pettis County,+7%,n/a,+15%,-27%,n/a,-22%
@@ -1009,12 +1073,15 @@ US,2020-03-29,Pike County,-2%,n/a,n/a,-28%,n/a,-26%
 US,2020-03-29,Platte County,+15%,-19%,+15%,-46%,-80%,-40%
 US,2020-03-29,Polk County,-13%,-46%,+10%,-24%,n/a,-23%
 US,2020-03-29,Pulaski County,-9%,n/a,+13%,-32%,-45%,-19%
+US,2020-03-29,Putnam County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Ralls County,n/a,n/a,n/a,-54%,-9%,-22%
 US,2020-03-29,Randolph County,-17%,n/a,+1%,-31%,n/a,-18%
 US,2020-03-29,Ray County,+1%,n/a,+7%,-14%,n/a,-22%
 US,2020-03-29,Ripley County,-2%,n/a,n/a,-5%,n/a,-28%
 US,2020-03-29,Saline County,+0%,n/a,+0%,-26%,n/a,+3%
 US,2020-03-29,Scott County,+0%,n/a,+11%,-34%,-19%,-21%
+US,2020-03-29,Shannon County,n/a,n/a,n/a,n/a,n/a,-29%
+US,2020-03-29,Shelby County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,St. Charles County,-13%,+63%,+11%,-45%,-16%,-37%
 US,2020-03-29,St. Clair County,-4%,n/a,n/a,-27%,n/a,-17%
 US,2020-03-29,St. Francois County,+3%,-29%,+13%,-26%,n/a,-15%
@@ -1023,6 +1090,7 @@ US,2020-03-29,St. Louis County,-21%,+87%,+11%,-45%,-59%,-38%
 US,2020-03-29,Ste. Genevieve County,n/a,n/a,n/a,-30%,-3%,-17%
 US,2020-03-29,Stoddard County,-5%,n/a,-2%,-19%,n/a,-18%
 US,2020-03-29,Stone County,+19%,n/a,+9%,-16%,n/a,-39%
+US,2020-03-29,Sullivan County,n/a,n/a,n/a,n/a,n/a,-7%
 US,2020-03-29,Taney County,-7%,+41%,+13%,-47%,n/a,-49%
 US,2020-03-29,Texas County,+13%,n/a,n/a,-21%,n/a,-23%
 US,2020-03-29,Vernon County,+13%,n/a,n/a,-21%,-24%,-14%
@@ -1147,8 +1215,10 @@ US,2020-03-29,Big Horn County,-7%,n/a,n/a,-35%,n/a,-29%
 US,2020-03-29,Campbell County,-2%,n/a,+17%,-32%,-7%,-22%
 US,2020-03-29,Carbon County,-14%,n/a,n/a,-30%,-15%,-35%
 US,2020-03-29,Converse County,-3%,n/a,n/a,-42%,-35%,-22%
+US,2020-03-29,Crook County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Fremont County,-17%,n/a,+15%,-31%,n/a,-27%
 US,2020-03-29,Goshen County,-17%,n/a,n/a,-24%,n/a,-26%
+US,2020-03-29,Hot Springs County,-22%,-56%,n/a,-67%,n/a,n/a
 US,2020-03-29,Johnson County,-2%,n/a,n/a,-38%,n/a,-30%
 US,2020-03-29,Laramie County,-20%,+26%,+10%,-39%,-16%,-28%
 US,2020-03-29,Lincoln County,-5%,n/a,n/a,-30%,n/a,-35%
@@ -1346,6 +1416,7 @@ US,2020-03-29,Warren County,-37%,-35%,+14%,-47%,-40%,-35%
 BB,2020-03-29,Christ Church,-57%,n/a,+17%,-81%,-83%,-51%
 BB,2020-03-29,Saint George,n/a,-53%,n/a,-35%,n/a,-29%
 BB,2020-03-29,Saint James,-50%,n/a,n/a,-76%,n/a,-56%
+BB,2020-03-29,Saint John,n/a,n/a,n/a,n/a,n/a,-36%
 BB,2020-03-29,Saint Michael,-48%,-70%,+14%,-70%,-73%,-55%
 BB,2020-03-29,Saint Peter,-18%,n/a,n/a,-74%,n/a,-31%
 BB,2020-03-29,Saint Philip,-49%,n/a,n/a,-72%,n/a,-49%
@@ -1469,6 +1540,7 @@ US,2020-03-29,Carter County,+1%,+16%,+11%,-15%,n/a,-21%
 US,2020-03-29,Cheatham County,+23%,n/a,+16%,-9%,-36%,-32%
 US,2020-03-29,Chester County,-3%,n/a,n/a,-13%,n/a,-28%
 US,2020-03-29,Claiborne County,+29%,n/a,-2%,-28%,n/a,-26%
+US,2020-03-29,Clay County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Cocke County,-11%,-3%,+11%,-24%,-20%,-36%
 US,2020-03-29,Coffee County,-6%,n/a,+14%,-29%,-35%,-33%
 US,2020-03-29,Crockett County,+3%,n/a,n/a,-9%,n/a,-11%
@@ -1488,6 +1560,7 @@ US,2020-03-29,Greene County,-8%,n/a,+4%,-26%,-8%,-19%
 US,2020-03-29,Grundy County,+4%,n/a,n/a,-52%,n/a,-33%
 US,2020-03-29,Hamblen County,-12%,n/a,+12%,-29%,n/a,-28%
 US,2020-03-29,Hamilton County,-15%,+17%,+10%,-46%,-39%,-36%
+US,2020-03-29,Hancock County,n/a,n/a,n/a,n/a,n/a,-39%
 US,2020-03-29,Hardeman County,-4%,n/a,n/a,-11%,n/a,-28%
 US,2020-03-29,Hardin County,-3%,n/a,n/a,-24%,n/a,-29%
 US,2020-03-29,Hawkins County,-5%,n/a,+12%,-14%,n/a,-25%
@@ -1516,6 +1589,7 @@ US,2020-03-29,McNairy County,-1%,n/a,n/a,-17%,-20%,-17%
 US,2020-03-29,Meigs County,+14%,n/a,n/a,-12%,n/a,-28%
 US,2020-03-29,Monroe County,-7%,n/a,+14%,-22%,n/a,-37%
 US,2020-03-29,Montgomery County,-9%,+91%,+8%,-33%,-13%,-32%
+US,2020-03-29,Moore County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Morgan County,+2%,n/a,n/a,-5%,n/a,-11%
 US,2020-03-29,Obion County,+14%,n/a,+6%,-28%,n/a,-24%
 US,2020-03-29,Overton County,+6%,n/a,n/a,-11%,n/a,-30%
@@ -1538,6 +1612,7 @@ US,2020-03-29,Tipton County,+1%,n/a,+16%,-19%,n/a,-29%
 US,2020-03-29,Trousdale County,+11%,n/a,n/a,-20%,n/a,-33%
 US,2020-03-29,Unicoi County,+3%,n/a,n/a,-22%,n/a,-23%
 US,2020-03-29,Union County,+6%,n/a,n/a,-24%,n/a,-17%
+US,2020-03-29,Van Buren County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Warren County,+40%,n/a,+13%,+0%,n/a,-33%
 US,2020-03-29,Washington County,-15%,-25%,+8%,-45%,-8%,-33%
 US,2020-03-29,Wayne County,+3%,n/a,n/a,-20%,n/a,-28%
@@ -1559,6 +1634,7 @@ US,2020-03-29,Boulder County,-32%,-7%,+15%,-59%,-44%,-47%
 US,2020-03-29,Broomfield County,-30%,+9%,+30%,-57%,-46%,-41%
 US,2020-03-29,Chaffee County,-31%,-36%,n/a,-56%,n/a,-45%
 US,2020-03-29,Clear Creek County,-55%,-42%,n/a,-88%,n/a,-40%
+US,2020-03-29,Conejos County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Delta County,-20%,-40%,+5%,-41%,n/a,-19%
 US,2020-03-29,Denver County,-25%,-17%,+16%,-63%,-75%,-43%
 US,2020-03-29,Douglas County,-36%,+10%,+14%,-56%,-50%,-43%
@@ -1567,6 +1643,7 @@ US,2020-03-29,El Paso County,-22%,-1%,+12%,-45%,-55%,-40%
 US,2020-03-29,Elbert County,-16%,n/a,+0%,-22%,n/a,-37%
 US,2020-03-29,Fremont County,-13%,-7%,+14%,-35%,n/a,-29%
 US,2020-03-29,Garfield County,-35%,+4%,+22%,-51%,-34%,-45%
+US,2020-03-29,Gilpin County,n/a,n/a,n/a,n/a,n/a,-67%
 US,2020-03-29,Grand County,-49%,-84%,n/a,-85%,-43%,-60%
 US,2020-03-29,Gunnison County,-43%,-50%,n/a,-73%,n/a,-55%
 US,2020-03-29,Huerfano County,-43%,n/a,n/a,-62%,n/a,-28%
@@ -1589,8 +1666,10 @@ US,2020-03-29,Park County,-44%,+3%,n/a,-84%,n/a,-52%
 US,2020-03-29,Pitkin County,-56%,n/a,n/a,-100%,-85%,-75%
 US,2020-03-29,Prowers County,-25%,n/a,n/a,-32%,-33%,-17%
 US,2020-03-29,Pueblo County,-21%,-45%,+9%,-42%,-32%,-29%
+US,2020-03-29,Rio Blanco County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Rio Grande County,-24%,n/a,n/a,-38%,n/a,-17%
 US,2020-03-29,Routt County,-49%,-48%,-2%,-82%,-65%,-62%
+US,2020-03-29,Saguache County,n/a,n/a,n/a,n/a,n/a,-44%
 US,2020-03-29,San Miguel County,n/a,n/a,n/a,-80%,n/a,-69%
 US,2020-03-29,Summit County,-73%,-74%,+5%,-86%,-67%,-71%
 US,2020-03-29,Teller County,-23%,n/a,-1%,-46%,n/a,-45%
@@ -1604,6 +1683,7 @@ US,2020-03-29,Clallam County,-27%,-20%,+18%,-42%,-29%,-35%
 US,2020-03-29,Clark County,-28%,-3%,+13%,-46%,-38%,-41%
 US,2020-03-29,Cowlitz County,-20%,-23%,+11%,-40%,-34%,-35%
 US,2020-03-29,Douglas County,-19%,n/a,+17%,-53%,-39%,-40%
+US,2020-03-29,Ferry County,n/a,n/a,n/a,n/a,n/a,-40%
 US,2020-03-29,Franklin County,-15%,-16%,+12%,-35%,-59%,-33%
 US,2020-03-29,Grant County,-8%,+10%,+8%,-36%,-46%,-29%
 US,2020-03-29,Grays Harbor County,-18%,-16%,+14%,-40%,-26%,-37%
@@ -1614,6 +1694,7 @@ US,2020-03-29,Kitsap County,-27%,+12%,+12%,-45%,-62%,-43%
 US,2020-03-29,Kittitas County,-32%,-43%,+19%,-56%,-22%,-45%
 US,2020-03-29,Klickitat County,-3%,n/a,n/a,-56%,n/a,-36%
 US,2020-03-29,Lewis County,-21%,-37%,+11%,-49%,-32%,-34%
+US,2020-03-29,Lincoln County,n/a,n/a,n/a,n/a,n/a,-37%
 US,2020-03-29,Mason County,-25%,+1%,+20%,-28%,n/a,-38%
 US,2020-03-29,Okanogan County,+2%,n/a,+9%,-29%,n/a,-37%
 US,2020-03-29,Pacific County,-24%,-27%,n/a,-56%,n/a,-41%
@@ -1633,6 +1714,7 @@ US,2020-03-29,Yakima County,-13%,+0%,+9%,-36%,-21%,-33%
 US,2020-03-29,Adair County,-16%,n/a,n/a,-22%,n/a,-39%
 US,2020-03-29,Allen County,+0%,n/a,n/a,-17%,n/a,-24%
 US,2020-03-29,Anderson County,-5%,n/a,-1%,-26%,n/a,-27%
+US,2020-03-29,Ballard County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Barren County,-9%,n/a,+7%,-31%,n/a,-28%
 US,2020-03-29,Bath County,-9%,n/a,n/a,n/a,n/a,-34%
 US,2020-03-29,Bell County,-12%,n/a,n/a,-28%,n/a,-25%
@@ -1640,6 +1722,7 @@ US,2020-03-29,Boone County,-16%,+53%,+9%,-44%,-54%,-37%
 US,2020-03-29,Bourbon County,-25%,n/a,n/a,-19%,n/a,-29%
 US,2020-03-29,Boyd County,-11%,n/a,+15%,-44%,-18%,-27%
 US,2020-03-29,Boyle County,-15%,n/a,n/a,-40%,n/a,-38%
+US,2020-03-29,Bracken County,n/a,n/a,n/a,n/a,n/a,-33%
 US,2020-03-29,Breathitt County,n/a,n/a,n/a,-14%,n/a,-33%
 US,2020-03-29,Breckinridge County,+7%,n/a,n/a,-7%,n/a,-21%
 US,2020-03-29,Bullitt County,-10%,n/a,+18%,-36%,-26%,-35%
@@ -1653,8 +1736,10 @@ US,2020-03-29,Casey County,+5%,n/a,n/a,+0%,n/a,-38%
 US,2020-03-29,Christian County,-11%,n/a,+16%,-21%,-17%,-36%
 US,2020-03-29,Clark County,-8%,n/a,+12%,-27%,n/a,-34%
 US,2020-03-29,Clay County,-12%,n/a,n/a,-2%,n/a,-24%
+US,2020-03-29,Clinton County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Crittenden County,-2%,n/a,n/a,-37%,n/a,-25%
 US,2020-03-29,Daviess County,-16%,+39%,+8%,-43%,n/a,-28%
+US,2020-03-29,Edmonson County,n/a,n/a,n/a,n/a,n/a,-35%
 US,2020-03-29,Estill County,-11%,n/a,n/a,-26%,n/a,-34%
 US,2020-03-29,Fayette County,-12%,+57%,+10%,-45%,-46%,-39%
 US,2020-03-29,Fleming County,+0%,n/a,n/a,-10%,n/a,-39%
@@ -1666,7 +1751,9 @@ US,2020-03-29,Garrard County,+9%,n/a,n/a,-49%,n/a,-34%
 US,2020-03-29,Grant County,-10%,n/a,+1%,-27%,n/a,-42%
 US,2020-03-29,Graves County,-6%,n/a,+10%,-21%,n/a,-32%
 US,2020-03-29,Grayson County,+8%,n/a,n/a,-13%,n/a,-36%
+US,2020-03-29,Green County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Greenup County,-5%,n/a,+1%,-33%,n/a,-23%
+US,2020-03-29,Hancock County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Hardin County,-16%,n/a,+8%,-39%,-34%,-38%
 US,2020-03-29,Harlan County,+3%,n/a,n/a,-14%,n/a,-4%
 US,2020-03-29,Harrison County,-49%,n/a,n/a,+86%,n/a,-33%
@@ -1674,10 +1761,12 @@ US,2020-03-29,Hart County,+3%,n/a,n/a,+10%,-15%,-30%
 US,2020-03-29,Henderson County,+23%,n/a,+16%,-21%,n/a,-30%
 US,2020-03-29,Henry County,+1%,n/a,n/a,-35%,-26%,-42%
 US,2020-03-29,Hopkins County,-18%,n/a,+15%,-35%,-37%,-31%
+US,2020-03-29,Jackson County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Jefferson County,-10%,+83%,+10%,-44%,-37%,-38%
 US,2020-03-29,Jessamine County,-24%,n/a,+17%,-38%,-7%,-39%
 US,2020-03-29,Johnson County,-17%,n/a,n/a,-22%,n/a,-22%
 US,2020-03-29,Kenton County,-8%,+108%,+10%,-35%,-2%,-35%
+US,2020-03-29,Knott County,n/a,n/a,n/a,n/a,n/a,-35%
 US,2020-03-29,Knox County,-15%,n/a,n/a,-20%,n/a,-24%
 US,2020-03-29,Larue County,-5%,n/a,n/a,-26%,n/a,-28%
 US,2020-03-29,Laurel County,-14%,+61%,+14%,-36%,-22%,-30%
@@ -1694,7 +1783,9 @@ US,2020-03-29,Marshall County,+7%,n/a,+9%,-24%,-16%,-30%
 US,2020-03-29,Mason County,n/a,n/a,n/a,-23%,n/a,-20%
 US,2020-03-29,McCracken County,-13%,-24%,+16%,-40%,-15%,-34%
 US,2020-03-29,McCreary County,+5%,n/a,n/a,-21%,n/a,-33%
+US,2020-03-29,McLean County,n/a,n/a,n/a,n/a,n/a,-27%
 US,2020-03-29,Meade County,+4%,n/a,+8%,-26%,n/a,-29%
+US,2020-03-29,Menifee County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Mercer County,-9%,n/a,n/a,-25%,n/a,-28%
 US,2020-03-29,Metcalfe County,-16%,n/a,n/a,n/a,n/a,-36%
 US,2020-03-29,Monroe County,n/a,n/a,n/a,-16%,n/a,-33%
@@ -1702,8 +1793,10 @@ US,2020-03-29,Montgomery County,-3%,n/a,-3%,-28%,-8%,-23%
 US,2020-03-29,Morgan County,n/a,n/a,n/a,-59%,n/a,-34%
 US,2020-03-29,Muhlenberg County,-2%,n/a,n/a,-26%,n/a,-30%
 US,2020-03-29,Nelson County,-15%,n/a,+17%,-29%,n/a,-35%
+US,2020-03-29,Nicholas County,n/a,n/a,n/a,n/a,n/a,-43%
 US,2020-03-29,Ohio County,+8%,n/a,n/a,-18%,-34%,-27%
 US,2020-03-29,Oldham County,-6%,n/a,+24%,-36%,n/a,-41%
+US,2020-03-29,Owen County,n/a,n/a,n/a,n/a,n/a,-41%
 US,2020-03-29,Pendleton County,-19%,n/a,n/a,-4%,n/a,-35%
 US,2020-03-29,Perry County,-12%,n/a,n/a,-30%,n/a,-18%
 US,2020-03-29,Pike County,-12%,n/a,n/a,-35%,n/a,-25%
@@ -1719,6 +1812,7 @@ US,2020-03-29,Spencer County,+6%,n/a,n/a,-25%,n/a,-40%
 US,2020-03-29,Taylor County,-5%,n/a,n/a,-33%,n/a,-22%
 US,2020-03-29,Todd County,+0%,n/a,n/a,-48%,n/a,-32%
 US,2020-03-29,Trigg County,-2%,n/a,n/a,-27%,n/a,-35%
+US,2020-03-29,Trimble County,n/a,n/a,n/a,n/a,n/a,-36%
 US,2020-03-29,Union County,-10%,n/a,n/a,-19%,n/a,-44%
 US,2020-03-29,Warren County,-23%,-26%,+10%,-42%,-22%,-37%
 US,2020-03-29,Washington County,n/a,n/a,n/a,-33%,n/a,-44%
@@ -1730,8 +1824,10 @@ US,2020-03-29,Adams County,-10%,n/a,n/a,-33%,n/a,-34%
 US,2020-03-29,Alcorn County,-9%,n/a,+1%,-32%,n/a,-28%
 US,2020-03-29,Amite County,-13%,n/a,n/a,-34%,n/a,-33%
 US,2020-03-29,Attala County,+11%,n/a,n/a,-10%,n/a,-20%
+US,2020-03-29,Benton County,n/a,n/a,n/a,n/a,n/a,-23%
 US,2020-03-29,Bolivar County,+1%,n/a,n/a,-15%,n/a,-24%
 US,2020-03-29,Calhoun County,+2%,n/a,n/a,-30%,n/a,-32%
+US,2020-03-29,Carroll County,n/a,n/a,n/a,n/a,n/a,-33%
 US,2020-03-29,Chickasaw County,-16%,n/a,n/a,-18%,n/a,-35%
 US,2020-03-29,Claiborne County,n/a,n/a,n/a,-22%,n/a,-9%
 US,2020-03-29,Clarke County,-10%,n/a,n/a,-31%,n/a,-25%
@@ -1754,6 +1850,7 @@ US,2020-03-29,Jackson County,-9%,+19%,+10%,-28%,-38%,-38%
 US,2020-03-29,Jasper County,-3%,n/a,n/a,-22%,n/a,-18%
 US,2020-03-29,Jefferson Davis County,+6%,n/a,n/a,n/a,n/a,-34%
 US,2020-03-29,Jones County,+1%,n/a,+11%,-24%,n/a,-28%
+US,2020-03-29,Kemper County,n/a,n/a,n/a,n/a,n/a,-26%
 US,2020-03-29,Lafayette County,-21%,n/a,+10%,-46%,n/a,-35%
 US,2020-03-29,Lamar County,-11%,n/a,+14%,-52%,-44%,-25%
 US,2020-03-29,Lauderdale County,-14%,+8%,+14%,-38%,-29%,-35%
@@ -1778,6 +1875,7 @@ US,2020-03-29,Perry County,-4%,-22%,n/a,n/a,n/a,-27%
 US,2020-03-29,Pike County,-9%,n/a,-2%,-27%,-28%,-19%
 US,2020-03-29,Pontotoc County,-3%,n/a,-1%,-28%,n/a,-29%
 US,2020-03-29,Prentiss County,-3%,n/a,n/a,-23%,n/a,-25%
+US,2020-03-29,Quitman County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Rankin County,-12%,-9%,+10%,-42%,-42%,-27%
 US,2020-03-29,Scott County,-1%,n/a,n/a,-27%,-9%,-17%
 US,2020-03-29,Simpson County,-3%,n/a,n/a,-25%,-40%,-20%
@@ -1867,6 +1965,7 @@ US,2020-03-29,Holmes County,-12%,n/a,n/a,-19%,n/a,-18%
 US,2020-03-29,Indian River County,-29%,-30%,+11%,-46%,-47%,-38%
 US,2020-03-29,Jackson County,-11%,n/a,+12%,-29%,-32%,-32%
 US,2020-03-29,Jefferson County,-10%,n/a,n/a,-20%,n/a,-28%
+US,2020-03-29,Lafayette County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Lake County,-24%,-24%,+12%,-42%,-57%,-41%
 US,2020-03-29,Lee County,-28%,-60%,+12%,-55%,-69%,-41%
 US,2020-03-29,Leon County,-22%,+0%,+11%,-45%,-50%,-36%
@@ -1962,30 +2061,42 @@ US,2020-03-29,Buffalo County,-16%,n/a,+17%,-39%,-3%,-28%
 US,2020-03-29,Burt County,n/a,n/a,n/a,-58%,n/a,-18%
 US,2020-03-29,Butler County,n/a,n/a,n/a,-53%,n/a,-19%
 US,2020-03-29,Cass County,n/a,-63%,+12%,-33%,n/a,-28%
+US,2020-03-29,Cedar County,n/a,n/a,n/a,n/a,n/a,-19%
 US,2020-03-29,Cherry County,n/a,n/a,n/a,-70%,n/a,-34%
 US,2020-03-29,Cheyenne County,-20%,n/a,n/a,-21%,-1%,-26%
+US,2020-03-29,Clay County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Colfax County,-10%,n/a,n/a,-52%,n/a,-6%
 US,2020-03-29,Cuming County,n/a,n/a,n/a,-29%,n/a,-24%
 US,2020-03-29,Custer County,-14%,n/a,n/a,-33%,n/a,-14%
 US,2020-03-29,Dakota County,+7%,n/a,+1%,-10%,n/a,-23%
 US,2020-03-29,Dawes County,n/a,n/a,n/a,-26%,n/a,-30%
 US,2020-03-29,Dawson County,+3%,n/a,-2%,-19%,n/a,-12%
+US,2020-03-29,Deuel County,n/a,n/a,n/a,n/a,-5%,n/a
+US,2020-03-29,Dixon County,n/a,n/a,n/a,n/a,n/a,-25%
 US,2020-03-29,Dodge County,-5%,n/a,+13%,-21%,-2%,-22%
 US,2020-03-29,Douglas County,-7%,+55%,+9%,-41%,-38%,-30%
+US,2020-03-29,Fillmore County,n/a,n/a,n/a,n/a,n/a,-20%
 US,2020-03-29,Gage County,+6%,n/a,+1%,-22%,n/a,-21%
 US,2020-03-29,Hall County,-20%,n/a,+12%,-35%,-15%,-26%
 US,2020-03-29,Hamilton County,n/a,n/a,n/a,-58%,-6%,-22%
 US,2020-03-29,Holt County,+6%,n/a,n/a,-20%,n/a,-9%
+US,2020-03-29,Howard County,n/a,n/a,n/a,n/a,n/a,-21%
 US,2020-03-29,Jefferson County,n/a,n/a,n/a,-13%,n/a,-22%
+US,2020-03-29,Kearney County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Keith County,-20%,n/a,n/a,-31%,+14%,-26%
+US,2020-03-29,Kimball County,n/a,n/a,n/a,n/a,n/a,-41%
+US,2020-03-29,Knox County,n/a,n/a,n/a,n/a,n/a,-25%
 US,2020-03-29,Lancaster County,-19%,+156%,+8%,-39%,-18%,-26%
 US,2020-03-29,Lincoln County,-4%,n/a,+14%,-29%,-8%,-14%
 US,2020-03-29,Madison County,-7%,n/a,+14%,-38%,n/a,-17%
 US,2020-03-29,Merrick County,n/a,n/a,n/a,-55%,n/a,-24%
+US,2020-03-29,Morrill County,n/a,n/a,n/a,n/a,n/a,-22%
 US,2020-03-29,Nemaha County,n/a,n/a,n/a,-56%,n/a,-27%
 US,2020-03-29,Otoe County,+3%,n/a,n/a,-8%,n/a,-16%
 US,2020-03-29,Phelps County,-8%,n/a,n/a,-20%,n/a,-30%
+US,2020-03-29,Pierce County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Platte County,-2%,n/a,+15%,-34%,-16%,-17%
+US,2020-03-29,Polk County,n/a,n/a,n/a,n/a,n/a,-22%
 US,2020-03-29,Red Willow County,n/a,n/a,n/a,-16%,n/a,-18%
 US,2020-03-29,Richardson County,-2%,n/a,n/a,-24%,n/a,-13%
 US,2020-03-29,Saline County,-10%,n/a,n/a,-17%,n/a,-24%
@@ -1993,6 +2104,9 @@ US,2020-03-29,Sarpy County,-15%,+191%,+9%,-36%,+23%,-30%
 US,2020-03-29,Saunders County,+18%,n/a,n/a,-29%,n/a,-27%
 US,2020-03-29,Scotts Bluff County,-3%,n/a,+14%,-25%,n/a,-18%
 US,2020-03-29,Seward County,n/a,n/a,n/a,-29%,n/a,-32%
+US,2020-03-29,Stanton County,n/a,n/a,n/a,n/a,n/a,-20%
+US,2020-03-29,Thayer County,n/a,n/a,n/a,n/a,n/a,-19%
+US,2020-03-29,Thurston County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Washington County,-9%,n/a,n/a,-18%,n/a,-23%
 US,2020-03-29,Wayne County,n/a,n/a,n/a,-53%,n/a,-26%
 US,2020-03-29,York County,n/a,n/a,n/a,-39%,-12%,-31%
@@ -2087,6 +2201,7 @@ US,2020-03-29,Wyandot County,-5%,n/a,+6%,-41%,-21%,-45%
 US,2020-03-29,Adams County,-25%,n/a,+8%,-43%,n/a,-33%
 US,2020-03-29,Allen County,-36%,+13%,+12%,-54%,-44%,-39%
 US,2020-03-29,Bartholomew County,-30%,+10%,+26%,-49%,-28%,-45%
+US,2020-03-29,Benton County,n/a,n/a,n/a,n/a,n/a,-42%
 US,2020-03-29,Blackford County,-17%,n/a,n/a,-51%,n/a,-24%
 US,2020-03-29,Boone County,-28%,n/a,+26%,-51%,-19%,-39%
 US,2020-03-29,Brown County,-4%,n/a,n/a,-68%,n/a,-37%
@@ -2140,6 +2255,7 @@ US,2020-03-29,Montgomery County,-25%,n/a,+16%,-40%,-35%,-31%
 US,2020-03-29,Morgan County,-12%,n/a,+20%,-39%,n/a,-32%
 US,2020-03-29,Newton County,n/a,n/a,n/a,-45%,n/a,-27%
 US,2020-03-29,Noble County,-26%,n/a,+23%,-42%,n/a,-42%
+US,2020-03-29,Ohio County,n/a,n/a,n/a,n/a,n/a,-53%
 US,2020-03-29,Orange County,-19%,n/a,n/a,-41%,n/a,-45%
 US,2020-03-29,Owen County,-21%,n/a,n/a,-30%,n/a,-29%
 US,2020-03-29,Parke County,-2%,n/a,n/a,-44%,n/a,-37%
@@ -2167,6 +2283,7 @@ US,2020-03-29,Vanderburgh County,-16%,-16%,+10%,-41%,-53%,-29%
 US,2020-03-29,Vermillion County,+4%,n/a,n/a,-34%,-32%,-20%
 US,2020-03-29,Vigo County,-24%,-12%,+9%,-47%,-9%,-36%
 US,2020-03-29,Wabash County,-36%,n/a,+8%,-50%,n/a,-26%
+US,2020-03-29,Warren County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Warrick County,-1%,n/a,+22%,-23%,n/a,-30%
 US,2020-03-29,Washington County,-22%,n/a,+11%,-27%,n/a,-25%
 US,2020-03-29,Wayne County,-30%,n/a,+12%,-48%,-18%,-32%
@@ -2191,6 +2308,7 @@ US,2020-03-29,Door County,-28%,n/a,-2%,-54%,n/a,-33%
 US,2020-03-29,Douglas County,-40%,n/a,+20%,-54%,n/a,-33%
 US,2020-03-29,Dunn County,-35%,n/a,+19%,-49%,-14%,-32%
 US,2020-03-29,Eau Claire County,-35%,-22%,+14%,-59%,-36%,-32%
+US,2020-03-29,Florence County,n/a,n/a,n/a,-73%,n/a,n/a
 US,2020-03-29,Fond du Lac County,-36%,-13%,+12%,-54%,-21%,-31%
 US,2020-03-29,Forest County,n/a,n/a,n/a,-84%,n/a,-40%
 US,2020-03-29,Grant County,-24%,n/a,+19%,-47%,n/a,-27%
@@ -2281,13 +2399,17 @@ US,2020-03-29,Coffey County,-24%,n/a,n/a,-67%,-29%,-35%
 US,2020-03-29,Cowley County,+5%,n/a,+12%,-17%,n/a,-28%
 US,2020-03-29,Crawford County,-29%,n/a,+15%,-42%,n/a,-22%
 US,2020-03-29,Dickinson County,-4%,n/a,n/a,-29%,-9%,-24%
+US,2020-03-29,Doniphan County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Douglas County,-20%,+88%,+11%,-50%,-26%,-38%
 US,2020-03-29,Ellis County,-19%,n/a,-1%,-34%,-17%,-14%
+US,2020-03-29,Ellsworth County,n/a,n/a,n/a,n/a,n/a,-16%
 US,2020-03-29,Finney County,+2%,n/a,+12%,-24%,-24%,-15%
 US,2020-03-29,Ford County,-1%,n/a,+11%,-21%,-8%,-16%
 US,2020-03-29,Franklin County,-27%,n/a,+15%,-30%,-17%,-20%
 US,2020-03-29,Geary County,-18%,n/a,+15%,-38%,n/a,-33%
 US,2020-03-29,Grant County,n/a,n/a,n/a,-20%,n/a,-14%
+US,2020-03-29,Greenwood County,n/a,n/a,n/a,n/a,n/a,-27%
+US,2020-03-29,Harper County,n/a,n/a,n/a,-61%,n/a,n/a
 US,2020-03-29,Harvey County,-1%,n/a,+14%,-13%,-38%,-31%
 US,2020-03-29,Jackson County,-33%,n/a,n/a,-24%,n/a,-35%
 US,2020-03-29,Jefferson County,+13%,n/a,n/a,-62%,n/a,-31%
@@ -2295,6 +2417,7 @@ US,2020-03-29,Johnson County,-24%,+192%,+12%,-42%,-20%,-40%
 US,2020-03-29,Kingman County,n/a,n/a,n/a,-51%,n/a,-28%
 US,2020-03-29,Labette County,+0%,n/a,n/a,-13%,n/a,-6%
 US,2020-03-29,Leavenworth County,-19%,n/a,+17%,-30%,-43%,-32%
+US,2020-03-29,Linn County,n/a,n/a,n/a,n/a,n/a,-17%
 US,2020-03-29,Lyon County,-27%,n/a,+15%,-41%,-31%,-23%
 US,2020-03-29,Marion County,n/a,n/a,n/a,-32%,n/a,-28%
 US,2020-03-29,Marshall County,n/a,n/a,n/a,-15%,n/a,-13%
@@ -2302,9 +2425,11 @@ US,2020-03-29,McPherson County,-9%,n/a,+13%,-32%,-16%,-26%
 US,2020-03-29,Miami County,-16%,n/a,+16%,-19%,n/a,-28%
 US,2020-03-29,Mitchell County,n/a,n/a,n/a,-73%,n/a,-24%
 US,2020-03-29,Montgomery County,+13%,n/a,+9%,-8%,n/a,+1%
+US,2020-03-29,Morris County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Nemaha County,n/a,n/a,n/a,-40%,n/a,-15%
 US,2020-03-29,Neosho County,+15%,n/a,n/a,-11%,-22%,-18%
 US,2020-03-29,Osage County,-7%,n/a,n/a,-51%,n/a,-12%
+US,2020-03-29,Ottawa County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Pawnee County,+2%,n/a,n/a,-22%,n/a,-26%
 US,2020-03-29,Pottawatomie County,-26%,n/a,+2%,-37%,n/a,-31%
 US,2020-03-29,Pratt County,-2%,n/a,n/a,-8%,n/a,-20%
@@ -2317,13 +2442,19 @@ US,2020-03-29,Scott County,n/a,n/a,n/a,-53%,n/a,-19%
 US,2020-03-29,Sedgwick County,-16%,+76%,+9%,-38%,-37%,-34%
 US,2020-03-29,Seward County,-1%,n/a,-1%,-24%,-11%,-14%
 US,2020-03-29,Shawnee County,-16%,+55%,+10%,-37%,+13%,-30%
+US,2020-03-29,Sherman County,n/a,n/a,n/a,-18%,n/a,n/a
+US,2020-03-29,Stevens County,n/a,n/a,n/a,-62%,n/a,n/a
 US,2020-03-29,Sumner County,+10%,n/a,+1%,-26%,n/a,-30%
 US,2020-03-29,Thomas County,n/a,n/a,n/a,-31%,-2%,-25%
+US,2020-03-29,Trego County,-14%,n/a,n/a,n/a,n/a,n/a
+US,2020-03-29,Wabaunsee County,n/a,n/a,n/a,n/a,n/a,-32%
+US,2020-03-29,Washington County,n/a,n/a,n/a,n/a,n/a,-16%
 US,2020-03-29,Wilson County,+2%,n/a,n/a,-18%,n/a,-26%
 US,2020-03-29,Wyandotte County,-10%,+53%,+9%,-43%,-5%,-33%
 US,2020-03-29,Adair County,-3%,n/a,n/a,-46%,n/a,-33%
 US,2020-03-29,Allamakee County,-27%,n/a,n/a,-57%,n/a,-22%
 US,2020-03-29,Appanoose County,+26%,n/a,n/a,-21%,n/a,-24%
+US,2020-03-29,Audubon County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Benton County,-10%,n/a,+8%,-54%,n/a,-33%
 US,2020-03-29,Black Hawk County,-23%,+11%,+10%,-46%,-14%,-30%
 US,2020-03-29,Boone County,-21%,n/a,+14%,-32%,n/a,-22%
@@ -2345,6 +2476,7 @@ US,2020-03-29,Clinton County,+18%,n/a,+16%,-41%,n/a,-24%
 US,2020-03-29,Crawford County,n/a,n/a,n/a,-34%,n/a,-23%
 US,2020-03-29,Dallas County,-40%,n/a,+25%,-60%,n/a,-34%
 US,2020-03-29,Davis County,n/a,n/a,n/a,-64%,n/a,-21%
+US,2020-03-29,Decatur County,n/a,n/a,n/a,n/a,n/a,-25%
 US,2020-03-29,Delaware County,-20%,n/a,n/a,-40%,n/a,-22%
 US,2020-03-29,Des Moines County,-7%,n/a,+14%,-40%,-32%,-24%
 US,2020-03-29,Dickinson County,-2%,-50%,n/a,-29%,n/a,-20%
@@ -2356,6 +2488,7 @@ US,2020-03-29,Franklin County,-16%,n/a,n/a,-47%,n/a,-25%
 US,2020-03-29,Fremont County,-9%,n/a,n/a,-65%,-16%,-15%
 US,2020-03-29,Greene County,+2%,n/a,n/a,-51%,n/a,-31%
 US,2020-03-29,Grundy County,-33%,n/a,n/a,-70%,n/a,-29%
+US,2020-03-29,Guthrie County,n/a,n/a,n/a,n/a,n/a,-34%
 US,2020-03-29,Hamilton County,-6%,n/a,n/a,-27%,-39%,-6%
 US,2020-03-29,Hancock County,-22%,n/a,n/a,n/a,n/a,-34%
 US,2020-03-29,Hardin County,+15%,n/a,n/a,-52%,n/a,-25%
@@ -2374,6 +2507,7 @@ US,2020-03-29,Keokuk County,n/a,n/a,n/a,-66%,n/a,-21%
 US,2020-03-29,Kossuth County,+47%,n/a,n/a,-70%,n/a,-21%
 US,2020-03-29,Lee County,-13%,n/a,+14%,-24%,n/a,-14%
 US,2020-03-29,Linn County,-7%,+2%,+11%,-52%,-55%,-36%
+US,2020-03-29,Louisa County,n/a,n/a,n/a,n/a,n/a,-18%
 US,2020-03-29,Lucas County,+6%,n/a,n/a,-59%,n/a,-16%
 US,2020-03-29,Lyon County,n/a,n/a,n/a,-66%,n/a,-24%
 US,2020-03-29,Madison County,+33%,n/a,n/a,-53%,n/a,-25%
@@ -2387,22 +2521,27 @@ US,2020-03-29,Monroe County,n/a,n/a,n/a,-51%,n/a,-26%
 US,2020-03-29,Montgomery County,+2%,n/a,n/a,-56%,n/a,-23%
 US,2020-03-29,Muscatine County,+33%,n/a,+16%,-42%,n/a,-28%
 US,2020-03-29,O'Brien County,-6%,n/a,n/a,-22%,n/a,-4%
+US,2020-03-29,Osceola County,n/a,n/a,n/a,n/a,n/a,-25%
 US,2020-03-29,Page County,n/a,n/a,n/a,-35%,n/a,-22%
 US,2020-03-29,Palo Alto County,-55%,n/a,n/a,-73%,n/a,-30%
 US,2020-03-29,Plymouth County,+6%,n/a,+8%,-26%,n/a,-30%
+US,2020-03-29,Pocahontas County,n/a,n/a,n/a,n/a,n/a,-26%
 US,2020-03-29,Polk County,-9%,+66%,+10%,-44%,-45%,-34%
 US,2020-03-29,Pottawattamie County,+2%,+14%,+7%,-33%,-4%,-30%
 US,2020-03-29,Poweshiek County,-15%,n/a,n/a,-36%,-18%,-28%
+US,2020-03-29,Sac County,n/a,n/a,n/a,n/a,n/a,-22%
 US,2020-03-29,Scott County,-22%,-1%,+11%,-50%,-24%,-31%
 US,2020-03-29,Shelby County,-5%,n/a,n/a,-17%,n/a,-25%
 US,2020-03-29,Sioux County,+4%,n/a,+19%,-25%,n/a,-23%
 US,2020-03-29,Story County,-29%,n/a,+22%,-50%,-38%,-43%
 US,2020-03-29,Tama County,-18%,n/a,n/a,-44%,n/a,-36%
+US,2020-03-29,Taylor County,n/a,n/a,n/a,n/a,n/a,-18%
 US,2020-03-29,Union County,n/a,n/a,n/a,-14%,n/a,-29%
 US,2020-03-29,Van Buren County,-7%,n/a,n/a,n/a,n/a,-13%
 US,2020-03-29,Wapello County,+8%,n/a,+10%,-33%,n/a,-18%
 US,2020-03-29,Warren County,-13%,n/a,+15%,-28%,n/a,-32%
 US,2020-03-29,Washington County,-19%,n/a,-3%,-41%,n/a,-30%
+US,2020-03-29,Wayne County,n/a,n/a,n/a,n/a,n/a,-25%
 US,2020-03-29,Webster County,+22%,n/a,+15%,-33%,n/a,-24%
 US,2020-03-29,Winnebago County,-18%,n/a,n/a,-53%,n/a,-36%
 US,2020-03-29,Winneshiek County,-33%,n/a,n/a,-56%,n/a,-33%
@@ -2471,7 +2610,9 @@ SI,2020-03-29,Litija,-35%,n/a,n/a,-77%,n/a,-53%
 SI,2020-03-29,Ljubljana,-91%,-51%,+15%,-87%,-58%,-44%
 SI,2020-03-29,Ljutomer,-48%,n/a,n/a,-88%,n/a,-52%
 SI,2020-03-29,Logatec,-47%,n/a,n/a,-88%,-81%,-53%
+SI,2020-03-29,Metlika,n/a,n/a,n/a,n/a,n/a,-58%
 SI,2020-03-29,Mozirje,-45%,n/a,n/a,-80%,n/a,-53%
+SI,2020-03-29,Municipality of Hrastnik,n/a,n/a,n/a,n/a,n/a,-53%
 SI,2020-03-29,Murska Sobota,-39%,n/a,+1%,-90%,-44%,-50%
 SI,2020-03-29,Nova Gorica,-49%,n/a,+2%,-89%,-60%,-52%
 SI,2020-03-29,Novo Mesto,-45%,n/a,+19%,-90%,n/a,-37%
@@ -2483,6 +2624,7 @@ SI,2020-03-29,Ptuj,-92%,n/a,+18%,-95%,-61%,-37%
 SI,2020-03-29,Radlje ob Dravi,-45%,n/a,n/a,-81%,n/a,-49%
 SI,2020-03-29,Radovljica,-50%,-62%,n/a,-94%,-61%,-61%
 SI,2020-03-29,Ravne na Koroškem,-41%,n/a,n/a,-76%,n/a,-30%
+SI,2020-03-29,Ribnica,n/a,n/a,n/a,n/a,n/a,-52%
 SI,2020-03-29,Ruše,n/a,n/a,n/a,-78%,n/a,-52%
 SI,2020-03-29,Sevnica,-40%,n/a,n/a,-85%,n/a,-51%
 SI,2020-03-29,Sežana,-57%,n/a,n/a,-95%,n/a,-44%
@@ -2508,6 +2650,7 @@ US,2020-03-29,Carbon County,+2%,n/a,n/a,-22%,n/a,-30%
 US,2020-03-29,Davis County,-1%,+48%,+10%,-39%,-15%,-41%
 US,2020-03-29,Duchesne County,+1%,n/a,n/a,-25%,n/a,-11%
 US,2020-03-29,Emery County,+6%,n/a,n/a,-45%,n/a,-16%
+US,2020-03-29,Garfield County,n/a,+13%,n/a,n/a,n/a,n/a
 US,2020-03-29,Grand County,-1%,-18%,n/a,-48%,n/a,-22%
 US,2020-03-29,Iron County,-49%,n/a,+16%,-43%,-16%,-38%
 US,2020-03-29,Juab County,-15%,n/a,n/a,-32%,-13%,-23%
@@ -2549,7 +2692,10 @@ US,2020-03-29,Kenai Peninsula Borough,-28%,n/a,+14%,-49%,n/a,-24%
 US,2020-03-29,Ketchikan Gateway,-38%,n/a,n/a,-48%,n/a,-32%
 US,2020-03-29,Kodiak Island,n/a,n/a,n/a,-50%,n/a,-23%
 US,2020-03-29,Matanuska-Susitna,-33%,n/a,+10%,-48%,n/a,-33%
+US,2020-03-29,North Slope,n/a,n/a,n/a,n/a,n/a,-7%
 US,2020-03-29,Sitka,n/a,n/a,n/a,-59%,n/a,-31%
+US,2020-03-29,Southeast Fairbanks,n/a,n/a,n/a,n/a,n/a,-35%
+US,2020-03-29,Valdez-Cordova,n/a,n/a,n/a,n/a,n/a,-22%
 US,2020-03-29,Bernalillo County,-22%,+8%,+11%,-46%,-43%,-37%
 US,2020-03-29,Chaves County,-26%,-41%,+12%,-46%,-49%,-26%
 US,2020-03-29,Cibola County,-7%,n/a,n/a,-27%,-16%,-30%
@@ -2577,6 +2723,7 @@ US,2020-03-29,Sierra County,-4%,n/a,n/a,-44%,n/a,-24%
 US,2020-03-29,Socorro County,-8%,n/a,n/a,-42%,n/a,-36%
 US,2020-03-29,Taos County,-29%,-36%,+1%,-59%,n/a,-52%
 US,2020-03-29,Torrance County,-7%,n/a,n/a,-24%,-8%,-25%
+US,2020-03-29,Union County,n/a,n/a,n/a,n/a,-34%,n/a
 US,2020-03-29,Valencia County,-8%,-10%,+13%,-38%,-21%,-33%
 RO,2020-03-29,Alba County,-58%,-49%,+12%,-83%,-62%,-45%
 RO,2020-03-29,Arad County,-55%,-45%,+15%,-81%,-69%,-38%
@@ -2755,9 +2902,11 @@ US,2020-03-29,Jerome County,-44%,n/a,+6%,-8%,-13%,-27%
 US,2020-03-29,Kootenai County,-20%,+26%,+10%,-42%,-18%,-40%
 US,2020-03-29,Latah County,-33%,n/a,+20%,-54%,n/a,-47%
 US,2020-03-29,Lemhi County,-20%,n/a,n/a,-26%,n/a,-28%
+US,2020-03-29,Lincoln County,n/a,n/a,n/a,n/a,n/a,-44%
 US,2020-03-29,Madison County,-19%,n/a,+20%,-29%,n/a,-59%
 US,2020-03-29,Minidoka County,+10%,n/a,+1%,-43%,-11%,-33%
 US,2020-03-29,Nez Perce County,-14%,-24%,+18%,-46%,-55%,-31%
+US,2020-03-29,Oneida County,n/a,n/a,n/a,n/a,n/a,-42%
 US,2020-03-29,Owyhee County,+13%,n/a,n/a,-14%,n/a,-20%
 US,2020-03-29,Payette County,-10%,n/a,+5%,-33%,n/a,-26%
 US,2020-03-29,Power County,-7%,n/a,n/a,n/a,n/a,-34%
@@ -2802,6 +2951,8 @@ US,2020-03-29,Edgecombe County,+12%,n/a,+12%,-9%,n/a,-26%
 US,2020-03-29,Forsyth County,-28%,+57%,+11%,-45%,-17%,-39%
 US,2020-03-29,Franklin County,-8%,n/a,+16%,-21%,n/a,-39%
 US,2020-03-29,Gaston County,-26%,-7%,+10%,-38%,n/a,-33%
+US,2020-03-29,Gates County,n/a,n/a,n/a,n/a,n/a,-28%
+US,2020-03-29,Graham County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Granville County,-14%,n/a,+16%,-18%,n/a,-32%
 US,2020-03-29,Greene County,-6%,-14%,n/a,-37%,n/a,-31%
 US,2020-03-29,Guilford County,-29%,+20%,+12%,-47%,-42%,-39%
@@ -2887,6 +3038,7 @@ US,2020-03-29,Chicot County,+6%,n/a,n/a,-19%,n/a,-25%
 US,2020-03-29,Clark County,+2%,n/a,n/a,-33%,-23%,-22%
 US,2020-03-29,Clay County,-2%,n/a,n/a,-7%,n/a,-21%
 US,2020-03-29,Cleburne County,+0%,n/a,n/a,-16%,n/a,-37%
+US,2020-03-29,Cleveland County,n/a,n/a,n/a,n/a,n/a,-33%
 US,2020-03-29,Columbia County,-20%,n/a,n/a,-18%,n/a,-20%
 US,2020-03-29,Conway County,+4%,n/a,n/a,+2%,-2%,-25%
 US,2020-03-29,Craighead County,-3%,-59%,+4%,-32%,-5%,-24%
@@ -2898,6 +3050,7 @@ US,2020-03-29,Desha County,+0%,n/a,n/a,-8%,n/a,-33%
 US,2020-03-29,Drew County,-10%,n/a,n/a,-27%,n/a,-16%
 US,2020-03-29,Faulkner County,-15%,-21%,+8%,-32%,n/a,-31%
 US,2020-03-29,Franklin County,+12%,n/a,n/a,-8%,+8%,-16%
+US,2020-03-29,Fulton County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Garland County,-12%,+17%,+7%,-32%,n/a,-32%
 US,2020-03-29,Grant County,-17%,n/a,n/a,-10%,n/a,-26%
 US,2020-03-29,Greene County,-4%,n/a,+12%,-18%,n/a,-20%
@@ -2919,17 +3072,22 @@ US,2020-03-29,Marion County,+5%,n/a,n/a,+4%,n/a,-26%
 US,2020-03-29,Miller County,-10%,-35%,+12%,-33%,-24%,-32%
 US,2020-03-29,Mississippi County,-1%,n/a,+10%,-11%,-18%,-15%
 US,2020-03-29,Monroe County,-8%,n/a,n/a,-26%,n/a,-34%
+US,2020-03-29,Montgomery County,n/a,n/a,n/a,n/a,n/a,-33%
 US,2020-03-29,Nevada County,n/a,n/a,n/a,-61%,-23%,-21%
+US,2020-03-29,Newton County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Ouachita County,-21%,n/a,n/a,-9%,n/a,-16%
+US,2020-03-29,Perry County,n/a,n/a,n/a,n/a,n/a,-35%
 US,2020-03-29,Phillips County,-6%,n/a,n/a,-1%,n/a,-32%
 US,2020-03-29,Pike County,+13%,n/a,n/a,-30%,n/a,-33%
 US,2020-03-29,Poinsett County,-5%,n/a,n/a,+2%,n/a,-15%
 US,2020-03-29,Polk County,+3%,n/a,n/a,-17%,n/a,-25%
 US,2020-03-29,Pope County,-9%,n/a,+12%,-32%,-11%,-22%
+US,2020-03-29,Prairie County,n/a,n/a,n/a,n/a,n/a,-26%
 US,2020-03-29,Pulaski County,-9%,+73%,+9%,-35%,-38%,-30%
 US,2020-03-29,Randolph County,+12%,n/a,n/a,-22%,n/a,-23%
 US,2020-03-29,Saline County,-13%,-52%,+7%,-26%,-10%,-33%
 US,2020-03-29,Scott County,n/a,n/a,n/a,-39%,n/a,-27%
+US,2020-03-29,Searcy County,n/a,n/a,n/a,n/a,n/a,-39%
 US,2020-03-29,Sebastian County,-11%,+45%,+7%,-36%,-41%,-27%
 US,2020-03-29,Sevier County,-11%,n/a,n/a,-24%,n/a,-19%
 US,2020-03-29,Sharp County,-7%,n/a,n/a,-17%,n/a,-26%
@@ -2983,6 +3141,7 @@ US,2020-03-29,Colquitt County,-6%,n/a,+13%,-31%,n/a,-25%
 US,2020-03-29,Columbia County,-7%,-20%,+11%,-35%,-44%,-37%
 US,2020-03-29,Cook County,+2%,n/a,n/a,-17%,-21%,-21%
 US,2020-03-29,Coweta County,-16%,-56%,+11%,-46%,-15%,-35%
+US,2020-03-29,Crawford County,n/a,n/a,n/a,n/a,n/a,-20%
 US,2020-03-29,Crisp County,-22%,n/a,n/a,-28%,-10%,-35%
 US,2020-03-29,Dade County,-9%,n/a,n/a,-49%,-16%,-23%
 US,2020-03-29,Dawson County,-25%,+17%,+0%,-49%,n/a,-37%
@@ -3031,6 +3190,8 @@ US,2020-03-29,Lanier County,-6%,n/a,n/a,-43%,n/a,-35%
 US,2020-03-29,Laurens County,-15%,n/a,+14%,-42%,-27%,-31%
 US,2020-03-29,Lee County,-21%,n/a,+11%,-45%,n/a,-28%
 US,2020-03-29,Liberty County,-17%,-17%,+10%,-32%,-22%,-27%
+US,2020-03-29,Lincoln County,n/a,n/a,n/a,n/a,n/a,-27%
+US,2020-03-29,Long County,n/a,n/a,n/a,n/a,n/a,-30%
 US,2020-03-29,Lowndes County,-17%,-13%,+8%,-45%,-21%,-29%
 US,2020-03-29,Lumpkin County,+19%,n/a,+6%,-35%,n/a,-37%
 US,2020-03-29,Macon County,-4%,n/a,n/a,-35%,n/a,-22%
@@ -3061,6 +3222,7 @@ US,2020-03-29,Rabun County,-2%,+37%,n/a,-42%,n/a,-40%
 US,2020-03-29,Randolph County,n/a,n/a,n/a,-64%,n/a,-32%
 US,2020-03-29,Richmond County,-5%,+26%,+8%,-40%,-51%,-31%
 US,2020-03-29,Rockdale County,-11%,-18%,+12%,-43%,n/a,-39%
+US,2020-03-29,Schley County,n/a,n/a,n/a,n/a,n/a,-36%
 US,2020-03-29,Screven County,+0%,n/a,n/a,-37%,n/a,-29%
 US,2020-03-29,Seminole County,-18%,n/a,n/a,-7%,n/a,-22%
 US,2020-03-29,Spalding County,-13%,n/a,+8%,-27%,n/a,-31%
@@ -3078,11 +3240,13 @@ US,2020-03-29,Towns County,-3%,n/a,n/a,-38%,n/a,-22%
 US,2020-03-29,Treutlen County,-4%,n/a,n/a,n/a,n/a,-26%
 US,2020-03-29,Troup County,-10%,n/a,+10%,-36%,-28%,-27%
 US,2020-03-29,Turner County,+23%,n/a,n/a,-61%,-22%,-23%
+US,2020-03-29,Twiggs County,n/a,n/a,n/a,n/a,n/a,-36%
 US,2020-03-29,Union County,+11%,+22%,n/a,-30%,n/a,-36%
 US,2020-03-29,Upson County,-8%,n/a,-4%,-25%,n/a,-36%
 US,2020-03-29,Walker County,+7%,-28%,+15%,-20%,n/a,-28%
 US,2020-03-29,Walton County,+7%,n/a,+9%,-28%,n/a,-35%
 US,2020-03-29,Ware County,-18%,n/a,+11%,-39%,n/a,-23%
+US,2020-03-29,Warren County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Washington County,-31%,n/a,n/a,-12%,n/a,-13%
 US,2020-03-29,Wayne County,-8%,n/a,-2%,-30%,n/a,-33%
 US,2020-03-29,White County,-2%,-16%,+9%,-43%,n/a,-29%
@@ -3145,6 +3309,7 @@ US,2020-03-29,Potter County,-6%,n/a,n/a,-52%,n/a,-28%
 US,2020-03-29,Schuylkill County,-16%,-43%,+10%,-39%,-6%,-28%
 US,2020-03-29,Snyder County,-28%,n/a,+12%,-55%,n/a,-33%
 US,2020-03-29,Somerset County,-14%,-20%,+19%,-36%,-55%,-26%
+US,2020-03-29,Sullivan County,n/a,n/a,n/a,n/a,n/a,-42%
 US,2020-03-29,Susquehanna County,-17%,n/a,+15%,-42%,-25%,-30%
 US,2020-03-29,Tioga County,-15%,n/a,+16%,-45%,n/a,-27%
 US,2020-03-29,Union County,-30%,n/a,+14%,-55%,n/a,-35%
@@ -3166,6 +3331,7 @@ US,2020-03-29,Carter County,+1%,n/a,+14%,-27%,-16%,-29%
 US,2020-03-29,Cherokee County,-5%,-38%,+17%,-26%,n/a,-33%
 US,2020-03-29,Choctaw County,-6%,n/a,n/a,-22%,n/a,-21%
 US,2020-03-29,Cleveland County,-22%,+26%,+11%,-46%,n/a,-39%
+US,2020-03-29,Coal County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Comanche County,-9%,+66%,+9%,-38%,+5%,-38%
 US,2020-03-29,Cotton County,-23%,n/a,n/a,n/a,-43%,-33%
 US,2020-03-29,Craig County,-21%,n/a,n/a,-14%,+8%,-24%
@@ -3175,6 +3341,7 @@ US,2020-03-29,Delaware County,+20%,n/a,+12%,-16%,-13%,-20%
 US,2020-03-29,Garfield County,-19%,-36%,+13%,-38%,-20%,-23%
 US,2020-03-29,Garvin County,-3%,-27%,-4%,-18%,-16%,-19%
 US,2020-03-29,Grady County,+2%,n/a,+16%,-37%,n/a,-37%
+US,2020-03-29,Greer County,n/a,n/a,n/a,n/a,n/a,-38%
 US,2020-03-29,Haskell County,+14%,n/a,n/a,-17%,n/a,-30%
 US,2020-03-29,Hughes County,+8%,n/a,n/a,-19%,n/a,-29%
 US,2020-03-29,Jackson County,+0%,n/a,+9%,-29%,n/a,-25%
@@ -3188,6 +3355,7 @@ US,2020-03-29,Le Flore County,-5%,n/a,+10%,-18%,n/a,-23%
 US,2020-03-29,Lincoln County,+4%,n/a,+12%,-29%,n/a,-31%
 US,2020-03-29,Logan County,-3%,n/a,+17%,-18%,-16%,-26%
 US,2020-03-29,Love County,-9%,n/a,n/a,-37%,n/a,-44%
+US,2020-03-29,Major County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Marshall County,+6%,n/a,n/a,-13%,n/a,-27%
 US,2020-03-29,Mayes County,-3%,n/a,+14%,-22%,-17%,-25%
 US,2020-03-29,McClain County,-13%,n/a,+17%,-30%,-42%,-38%
@@ -3221,6 +3389,7 @@ US,2020-03-29,Washita County,-17%,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Woods County,n/a,+24%,n/a,-12%,n/a,-38%
 US,2020-03-29,Woodward County,-7%,n/a,n/a,-25%,n/a,-25%
 EE,2020-03-29,Harju County,-29%,+2%,+11%,-61%,-57%,-34%
+EE,2020-03-29,Hiiu County,n/a,n/a,n/a,n/a,n/a,-68%
 EE,2020-03-29,Ida-Viru County,-22%,-23%,+12%,-50%,-35%,-28%
 EE,2020-03-29,Järva County,-23%,n/a,n/a,-41%,n/a,-39%
 EE,2020-03-29,Jõgeva County,-24%,n/a,n/a,-45%,n/a,-42%
@@ -3239,6 +3408,7 @@ US,2020-03-29,Anoka County,-34%,+12%,+15%,-55%,-45%,-39%
 US,2020-03-29,Becker County,-21%,n/a,+16%,-51%,n/a,-35%
 US,2020-03-29,Beltrami County,-29%,+4%,+18%,-52%,n/a,-36%
 US,2020-03-29,Benton County,-33%,n/a,+18%,-58%,n/a,-31%
+US,2020-03-29,Big Stone County,n/a,n/a,n/a,n/a,n/a,-35%
 US,2020-03-29,Blue Earth County,-38%,-40%,+20%,-65%,n/a,-35%
 US,2020-03-29,Brown County,-39%,n/a,+9%,-31%,n/a,-19%
 US,2020-03-29,Carlton County,-45%,n/a,+11%,-57%,n/a,-26%
@@ -3258,6 +3428,7 @@ US,2020-03-29,Faribault County,-31%,n/a,n/a,-59%,n/a,-18%
 US,2020-03-29,Fillmore County,-25%,n/a,n/a,-74%,n/a,-28%
 US,2020-03-29,Freeborn County,-29%,n/a,+15%,-47%,-20%,-32%
 US,2020-03-29,Goodhue County,-38%,-20%,+18%,-49%,n/a,-39%
+US,2020-03-29,Grant County,n/a,n/a,n/a,n/a,n/a,-23%
 US,2020-03-29,Hennepin County,-37%,-17%,+16%,-64%,-74%,-44%
 US,2020-03-29,Houston County,-30%,n/a,n/a,-85%,n/a,-28%
 US,2020-03-29,Hubbard County,-32%,n/a,n/a,-45%,n/a,-44%
@@ -3267,9 +3438,14 @@ US,2020-03-29,Jackson County,n/a,n/a,n/a,-77%,n/a,-27%
 US,2020-03-29,Kanabec County,-39%,n/a,n/a,-59%,n/a,-38%
 US,2020-03-29,Kandiyohi County,-25%,n/a,+16%,-51%,n/a,-29%
 US,2020-03-29,Koochiching County,-32%,n/a,n/a,-44%,n/a,-29%
+US,2020-03-29,Lac qui Parle County,n/a,n/a,n/a,n/a,n/a,-20%
 US,2020-03-29,Lake County,-48%,-50%,n/a,-81%,n/a,-31%
+US,2020-03-29,Lake of the Woods County,n/a,n/a,n/a,-71%,n/a,n/a
 US,2020-03-29,Le Sueur County,-22%,n/a,+17%,-22%,n/a,-33%
+US,2020-03-29,Lincoln County,n/a,n/a,n/a,n/a,n/a,-26%
 US,2020-03-29,Lyon County,-33%,n/a,+4%,-51%,n/a,-25%
+US,2020-03-29,Mahnomen County,n/a,n/a,n/a,n/a,n/a,-52%
+US,2020-03-29,Marshall County,n/a,n/a,n/a,n/a,n/a,-29%
 US,2020-03-29,Martin County,-27%,n/a,n/a,-55%,n/a,-26%
 US,2020-03-29,McLeod County,-31%,n/a,+16%,-49%,n/a,-25%
 US,2020-03-29,Meeker County,-49%,n/a,+3%,-40%,n/a,-32%
@@ -3279,6 +3455,7 @@ US,2020-03-29,Mower County,-37%,n/a,+18%,-48%,n/a,-25%
 US,2020-03-29,Murray County,n/a,n/a,n/a,-35%,n/a,-22%
 US,2020-03-29,Nicollet County,-43%,n/a,+20%,-64%,n/a,-33%
 US,2020-03-29,Nobles County,-20%,n/a,n/a,-49%,-45%,-22%
+US,2020-03-29,Norman County,n/a,n/a,n/a,n/a,n/a,-23%
 US,2020-03-29,Olmsted County,-35%,-13%,+15%,-62%,-57%,-40%
 US,2020-03-29,Otter Tail County,-15%,-2%,+15%,-45%,n/a,-30%
 US,2020-03-29,Pennington County,-21%,n/a,n/a,-39%,n/a,-40%
@@ -3306,6 +3483,7 @@ US,2020-03-29,Wadena County,-27%,n/a,n/a,-46%,n/a,-28%
 US,2020-03-29,Waseca County,-45%,n/a,n/a,-40%,n/a,-21%
 US,2020-03-29,Washington County,-39%,-8%,+16%,-55%,-38%,-40%
 US,2020-03-29,Watonwan County,n/a,n/a,n/a,-57%,n/a,-7%
+US,2020-03-29,Wilkin County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Winona County,-35%,n/a,+20%,-52%,-49%,-23%
 US,2020-03-29,Wright County,-37%,-25%,+15%,-55%,n/a,-35%
 US,2020-03-29,Yellow Medicine County,n/a,n/a,n/a,-23%,n/a,-26%
@@ -3319,6 +3497,7 @@ AT,2020-03-29,Upper Austria,-44%,-19%,+13%,-86%,-67%,-47%
 AT,2020-03-29,Vienna,-52%,-44%,+15%,-85%,-71%,-52%
 AT,2020-03-29,Vorarlberg,-70%,-68%,+14%,-90%,-79%,-54%
 US,2020-03-29,Beadle County,-22%,n/a,n/a,-35%,n/a,-26%
+US,2020-03-29,Bon Homme County,n/a,n/a,n/a,n/a,n/a,-27%
 US,2020-03-29,Brookings County,-21%,n/a,+21%,-44%,n/a,-30%
 US,2020-03-29,Brown County,-10%,n/a,+17%,-30%,n/a,-23%
 US,2020-03-29,Brule County,n/a,n/a,n/a,-51%,n/a,-32%
@@ -3326,19 +3505,29 @@ US,2020-03-29,Butte County,n/a,n/a,n/a,-8%,n/a,-17%
 US,2020-03-29,Charles Mix County,n/a,n/a,n/a,-59%,n/a,-18%
 US,2020-03-29,Clay County,n/a,n/a,n/a,-32%,n/a,-28%
 US,2020-03-29,Codington County,-14%,n/a,+15%,-35%,-29%,-24%
+US,2020-03-29,Custer County,n/a,n/a,n/a,n/a,n/a,-23%
 US,2020-03-29,Davison County,-7%,n/a,n/a,-36%,n/a,-19%
+US,2020-03-29,Dewey County,n/a,n/a,n/a,n/a,n/a,-42%
 US,2020-03-29,Fall River County,-12%,n/a,n/a,-35%,n/a,-23%
 US,2020-03-29,Grant County,n/a,n/a,n/a,-52%,n/a,-21%
+US,2020-03-29,Hamlin County,n/a,n/a,n/a,n/a,n/a,-32%
 US,2020-03-29,Hughes County,+6%,n/a,n/a,-20%,n/a,-16%
+US,2020-03-29,Hutchinson County,n/a,n/a,n/a,n/a,n/a,-17%
+US,2020-03-29,Kingsbury County,n/a,n/a,n/a,n/a,n/a,-27%
 US,2020-03-29,Lake County,-13%,n/a,n/a,-13%,n/a,-27%
 US,2020-03-29,Lawrence County,-14%,-41%,+0%,-42%,n/a,-46%
 US,2020-03-29,Lincoln County,+13%,n/a,+22%,-13%,n/a,-24%
+US,2020-03-29,McCook County,n/a,n/a,n/a,n/a,n/a,-24%
 US,2020-03-29,Meade County,-10%,n/a,+12%,-38%,n/a,-32%
 US,2020-03-29,Minnehaha County,-5%,+141%,+8%,-38%,-41%,-23%
+US,2020-03-29,Moody County,n/a,n/a,n/a,n/a,n/a,-27%
 US,2020-03-29,Pennington County,-6%,+90%,+8%,-42%,-24%,-30%
 US,2020-03-29,Roberts County,+4%,n/a,n/a,-37%,-33%,-29%
 US,2020-03-29,Shannon County,-11%,n/a,n/a,-50%,n/a,-30%
+US,2020-03-29,Spink County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Todd County,-26%,n/a,n/a,n/a,n/a,-43%
+US,2020-03-29,Tripp County,n/a,n/a,n/a,-36%,n/a,n/a
+US,2020-03-29,Turner County,n/a,n/a,n/a,n/a,n/a,-21%
 US,2020-03-29,Union County,-15%,n/a,n/a,-30%,-18%,-17%
 US,2020-03-29,Walworth County,n/a,n/a,n/a,-19%,n/a,-37%
 US,2020-03-29,Yankton County,-3%,n/a,+8%,-23%,n/a,-22%
@@ -3370,6 +3559,7 @@ US,2020-03-29,Cleburne County,-3%,n/a,n/a,-22%,-36%,-9%
 US,2020-03-29,Coffee County,-15%,n/a,+11%,-28%,n/a,-26%
 US,2020-03-29,Colbert County,-6%,-14%,+12%,-30%,-20%,-22%
 US,2020-03-29,Conecuh County,-10%,n/a,n/a,-49%,-33%,-21%
+US,2020-03-29,Coosa County,n/a,n/a,n/a,n/a,n/a,-28%
 US,2020-03-29,Covington County,-15%,n/a,+7%,-37%,n/a,-23%
 US,2020-03-29,Crenshaw County,-17%,n/a,n/a,-57%,n/a,-35%
 US,2020-03-29,Cullman County,-2%,+86%,+8%,-33%,-33%,-29%
@@ -3393,6 +3583,7 @@ US,2020-03-29,Lauderdale County,-14%,-15%,+9%,-43%,n/a,-33%
 US,2020-03-29,Lawrence County,-6%,n/a,+7%,-27%,n/a,-25%
 US,2020-03-29,Lee County,-23%,-14%,+11%,-52%,n/a,-36%
 US,2020-03-29,Limestone County,-12%,+38%,+9%,-35%,n/a,-32%
+US,2020-03-29,Lowndes County,n/a,n/a,n/a,n/a,-29%,-34%
 US,2020-03-29,Macon County,-12%,n/a,n/a,-29%,-42%,-37%
 US,2020-03-29,Madison County,-17%,+35%,+10%,-46%,-39%,-38%
 US,2020-03-29,Marengo County,-4%,n/a,n/a,-18%,n/a,-17%
@@ -3426,7 +3617,9 @@ US,2020-03-29,Addison County,-38%,n/a,+6%,-55%,n/a,-35%
 US,2020-03-29,Bennington County,-29%,-23%,+8%,-62%,n/a,-40%
 US,2020-03-29,Caledonia County,-44%,n/a,+2%,-67%,n/a,-30%
 US,2020-03-29,Chittenden County,-53%,-50%,+14%,-61%,-57%,-46%
+US,2020-03-29,Essex County,n/a,n/a,n/a,n/a,n/a,-37%
 US,2020-03-29,Franklin County,-27%,n/a,+22%,-52%,n/a,-28%
+US,2020-03-29,Grand Isle County,n/a,n/a,n/a,n/a,-60%,-49%
 US,2020-03-29,Lamoille County,-45%,n/a,n/a,-79%,-40%,-58%
 US,2020-03-29,Orange County,-33%,n/a,+1%,-73%,-66%,-31%
 US,2020-03-29,Orleans County,-31%,-46%,+0%,-52%,n/a,-32%

@@ -54,6 +54,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Archer County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Atascosa County", 
         "values": {
             "Transit stations": "-65%", 
@@ -444,6 +457,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Coke County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-21%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Coleman County", 
         "values": {
             "Transit stations": "n/a", 
@@ -548,6 +574,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Crockett County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-27%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Crosby County", 
         "values": {
             "Transit stations": "n/a", 
@@ -639,6 +678,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Delta County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-37%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Denton County", 
         "values": {
             "Transit stations": "-30%", 
@@ -660,6 +712,19 @@
             "Parks": "n/a", 
             "Workplace": "-30%", 
             "Retail & recreation": "-19%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Donley County", 
+        "values": {
+            "Transit stations": "+9%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -782,6 +847,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Floyd County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Fort Bend County", 
         "values": {
             "Transit stations": "-26%", 
@@ -855,6 +933,19 @@
             "Parks": "-29%", 
             "Workplace": "-35%", 
             "Retail & recreation": "-42%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Garza County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-13%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-31%"
         }
     }, 
     {
@@ -977,6 +1068,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Hall County", 
+        "values": {
+            "Transit stations": "-13%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Hamilton County", 
         "values": {
             "Transit stations": "n/a", 
@@ -1037,6 +1141,32 @@
             "Parks": "-16%", 
             "Workplace": "-31%", 
             "Retail & recreation": "-28%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Hartley County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-4%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Haskell County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-22%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-16%"
         }
     }, 
     {
@@ -1232,6 +1362,19 @@
             "Parks": "+4%", 
             "Workplace": "-33%", 
             "Retail & recreation": "-49%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Jim Hogg County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-29%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -1497,6 +1640,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Loving County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-58%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lubbock County", 
         "values": {
             "Transit stations": "-36%", 
@@ -1505,6 +1661,19 @@
             "Parks": "+17%", 
             "Workplace": "-28%", 
             "Retail & recreation": "-37%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Lynn County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -1596,6 +1765,19 @@
             "Parks": "-12%", 
             "Workplace": "-34%", 
             "Retail & recreation": "-43%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "McMullen County", 
+        "values": {
+            "Transit stations": "-50%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -1778,6 +1960,19 @@
             "Parks": "n/a", 
             "Workplace": "-26%", 
             "Retail & recreation": "-44%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Oldham County", 
+        "values": {
+            "Transit stations": "-5%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -2082,6 +2277,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "San Saba County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-12%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Scurry County", 
         "values": {
             "Transit stations": "n/a", 
@@ -2103,6 +2311,19 @@
             "Parks": "n/a", 
             "Workplace": "-27%", 
             "Retail & recreation": "-29%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Sherman County", 
+        "values": {
+            "Transit stations": "+0%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -2155,6 +2376,19 @@
             "Parks": "n/a", 
             "Workplace": "-19%", 
             "Retail & recreation": "-32%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Sutton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-29%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-53%"
         }
     }, 
     {
@@ -2290,6 +2524,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Upton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-21%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Uvalde County", 
         "values": {
             "Transit stations": "n/a", 
@@ -2415,6 +2662,19 @@
             "Parks": "n/a", 
             "Workplace": "-20%", 
             "Retail & recreation": "-25%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Wheeler County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-41%"
         }
     }, 
     {
@@ -3317,6 +3577,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Alexander County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Bond County", 
         "values": {
             "Transit stations": "-5%", 
@@ -3564,6 +3837,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Edwards County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-39%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Effingham County", 
         "values": {
             "Transit stations": "-26%", 
@@ -3676,6 +3962,19 @@
             "Parks": "n/a", 
             "Workplace": "-24%", 
             "Retail & recreation": "-44%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Henderson County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-23%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -4188,6 +4487,32 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Pulaski County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-33%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Putnam County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Randolph County", 
         "values": {
             "Transit stations": "n/a", 
@@ -4287,6 +4612,19 @@
             "Parks": "+52%", 
             "Workplace": "-34%", 
             "Retail & recreation": "-45%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Stark County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-36%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -5397,6 +5735,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Lincoln County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-39%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Logan County", 
         "values": {
             "Transit stations": "n/a", 
@@ -5509,6 +5860,19 @@
             "Parks": "+60%", 
             "Workplace": "-44%", 
             "Retail & recreation": "-48%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Monroe County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -5696,6 +6060,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Tyler County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Upshur County", 
         "values": {
             "Transit stations": "n/a", 
@@ -5717,6 +6094,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-1%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Webster County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -6437,6 +6827,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Sherman County", 
+        "values": {
+            "Transit stations": "-37%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Tillamook County", 
         "values": {
             "Transit stations": "n/a", 
@@ -6632,6 +7035,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Mineral County", 
+        "values": {
+            "Transit stations": "-29%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Nye County", 
         "values": {
             "Transit stations": "-20%", 
@@ -6640,6 +7056,19 @@
             "Parks": "-52%", 
             "Workplace": "-40%", 
             "Retail & recreation": "-26%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Pershing County", 
+        "values": {
+            "Transit stations": "+6%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -6801,6 +7230,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Bath County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "-70%", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Bedford County", 
         "values": {
             "Transit stations": "n/a", 
@@ -6809,6 +7251,19 @@
             "Parks": "n/a", 
             "Workplace": "-34%", 
             "Retail & recreation": "-27%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Bland County", 
+        "values": {
+            "Transit stations": "-19%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -6931,6 +7386,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Charles City County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-34%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Charlotte County", 
         "values": {
             "Transit stations": "n/a", 
@@ -7017,6 +7485,19 @@
             "Parks": "n/a", 
             "Workplace": "-26%", 
             "Retail & recreation": "-27%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Craig County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -7295,6 +7776,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Grayson County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-18%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Greene County", 
         "values": {
             "Transit stations": "n/a", 
@@ -7303,6 +7797,19 @@
             "Parks": "n/a", 
             "Workplace": "-33%", 
             "Retail & recreation": "-18%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Greensville County", 
+        "values": {
+            "Transit stations": "-24%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-18%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -7451,6 +7958,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "King and Queen County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lancaster County", 
         "values": {
             "Transit stations": "n/a", 
@@ -7472,6 +7992,19 @@
             "Parks": "n/a", 
             "Workplace": "-13%", 
             "Retail & recreation": "-18%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Lexington", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-14%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-61%"
         }
     }, 
     {
@@ -7711,6 +8244,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Norton", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-29%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Nottoway County", 
         "values": {
             "Transit stations": "n/a", 
@@ -7888,6 +8434,19 @@
             "Parks": "n/a", 
             "Workplace": "-33%", 
             "Retail & recreation": "-59%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Rappahannock County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -8101,6 +8660,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Surry County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-36%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Sussex County", 
         "values": {
             "Transit stations": "-48%", 
@@ -8278,6 +8850,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-51%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Blaine County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-41%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -8530,6 +9115,32 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Pondera County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-53%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Powell County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Ravalli County", 
         "values": {
             "Transit stations": "n/a", 
@@ -8569,6 +9180,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Rosebud County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Sanders County", 
         "values": {
             "Transit stations": "n/a", 
@@ -8603,6 +9227,19 @@
             "Parks": "n/a", 
             "Workplace": "-33%", 
             "Retail & recreation": "-47%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Teton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -9232,6 +9869,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Luce County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-67%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Mackinac County", 
         "values": {
             "Transit stations": "n/a", 
@@ -9448,6 +10098,19 @@
             "Parks": "n/a", 
             "Workplace": "-45%", 
             "Retail & recreation": "-47%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Ontonagon County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-46%"
         }
     }, 
     {
@@ -10779,6 +11442,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Dunn County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-18%", 
+            "Residential": "n/a", 
+            "Parks": "-26%", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-56%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Grand Forks County", 
         "values": {
             "Transit stations": "-38%", 
@@ -10857,6 +11533,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Pembina County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-22%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Ramsey County", 
         "values": {
             "Transit stations": "n/a", 
@@ -10865,6 +11554,19 @@
             "Parks": "n/a", 
             "Workplace": "-29%", 
             "Retail & recreation": "-39%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Ransom County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-13%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -10917,6 +11619,19 @@
             "Parks": "n/a", 
             "Workplace": "-15%", 
             "Retail & recreation": "-25%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Traill County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-31%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -12352,6 +13067,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Caldwell County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-20%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Callaway County", 
         "values": {
             "Transit stations": "n/a", 
@@ -12425,6 +13153,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-15%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Chariton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -12521,6 +13262,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Dade County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-13%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Dallas County", 
         "values": {
             "Transit stations": "n/a", 
@@ -12529,6 +13283,19 @@
             "Parks": "n/a", 
             "Workplace": "-16%", 
             "Retail & recreation": "-11%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Daviess County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-13%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -12612,6 +13379,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Gentry County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-34%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Greene County", 
         "values": {
             "Transit stations": "-34%", 
@@ -12659,6 +13439,32 @@
             "Parks": "n/a", 
             "Workplace": "-20%", 
             "Retail & recreation": "-9%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Hickory County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-2%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Howard County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-23%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -12859,6 +13665,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Maries County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-21%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Marion County", 
         "values": {
             "Transit stations": "-46%", 
@@ -13028,6 +13847,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Ozark County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-17%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Pemiscot County", 
         "values": {
             "Transit stations": "-27%", 
@@ -13132,6 +13964,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Putnam County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Ralls County", 
         "values": {
             "Transit stations": "-9%", 
@@ -13205,6 +14050,32 @@
             "Parks": "n/a", 
             "Workplace": "-21%", 
             "Retail & recreation": "-34%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Shannon County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Shelby County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -13309,6 +14180,19 @@
             "Parks": "n/a", 
             "Workplace": "-39%", 
             "Retail & recreation": "-16%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Sullivan County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-7%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -14926,6 +15810,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Crook County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Fremont County", 
         "values": {
             "Transit stations": "n/a", 
@@ -14947,6 +15844,19 @@
             "Parks": "n/a", 
             "Workplace": "-26%", 
             "Retail & recreation": "-24%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Hot Springs County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-22%", 
+            "Residential": "n/a", 
+            "Parks": "-56%", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-67%"
         }
     }, 
     {
@@ -17513,6 +18423,19 @@
     {
         "date": "2020-03-29", 
         "country": "BB", 
+        "region": "Saint John", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-36%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "BB", 
         "region": "Saint Michael", 
         "values": {
             "Transit stations": "-73%", 
@@ -19112,6 +20035,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Clay County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Cocke County", 
         "values": {
             "Transit stations": "-20%", 
@@ -19354,6 +20290,19 @@
             "Parks": "+17%", 
             "Workplace": "-36%", 
             "Retail & recreation": "-46%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Hancock County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-39%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -19723,6 +20672,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Moore County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Morgan County", 
         "values": {
             "Transit stations": "n/a", 
@@ -20009,6 +20971,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Van Buren County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Warren County", 
         "values": {
             "Transit stations": "n/a", 
@@ -20282,6 +21257,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Conejos County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Delta County", 
         "values": {
             "Transit stations": "n/a", 
@@ -20381,6 +21369,19 @@
             "Parks": "+4%", 
             "Workplace": "-45%", 
             "Retail & recreation": "-51%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Gilpin County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-67%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -20672,6 +21673,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Rio Blanco County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Rio Grande County", 
         "values": {
             "Transit stations": "n/a", 
@@ -20693,6 +21707,19 @@
             "Parks": "-48%", 
             "Workplace": "-62%", 
             "Retail & recreation": "-82%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Saguache County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-44%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -20867,6 +21894,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Ferry County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-40%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Franklin County", 
         "values": {
             "Transit stations": "-59%", 
@@ -20992,6 +22032,19 @@
             "Parks": "-37%", 
             "Workplace": "-34%", 
             "Retail & recreation": "-49%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Lincoln County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-37%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -21244,6 +22297,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Ballard County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Barren County", 
         "values": {
             "Transit stations": "n/a", 
@@ -21330,6 +22396,19 @@
             "Parks": "n/a", 
             "Workplace": "-38%", 
             "Retail & recreation": "-40%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Bracken County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-33%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -21504,6 +22583,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Clinton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Crittenden County", 
         "values": {
             "Transit stations": "n/a", 
@@ -21525,6 +22617,19 @@
             "Parks": "+39%", 
             "Workplace": "-28%", 
             "Retail & recreation": "-43%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Edmonson County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-35%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -21673,6 +22778,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Green County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Greenup County", 
         "values": {
             "Transit stations": "n/a", 
@@ -21681,6 +22799,19 @@
             "Parks": "n/a", 
             "Workplace": "-23%", 
             "Retail & recreation": "-33%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Hancock County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -21777,6 +22908,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Jackson County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Jefferson County", 
         "values": {
             "Transit stations": "-37%", 
@@ -21824,6 +22968,19 @@
             "Parks": "+108%", 
             "Workplace": "-35%", 
             "Retail & recreation": "-35%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Knott County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-35%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -22037,6 +23194,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "McLean County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Meade County", 
         "values": {
             "Transit stations": "n/a", 
@@ -22045,6 +23215,19 @@
             "Parks": "n/a", 
             "Workplace": "-29%", 
             "Retail & recreation": "-26%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Menifee County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -22141,6 +23324,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Nicholas County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-43%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Ohio County", 
         "values": {
             "Transit stations": "-34%", 
@@ -22162,6 +23358,19 @@
             "Parks": "n/a", 
             "Workplace": "-41%", 
             "Retail & recreation": "-36%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Owen County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-41%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -22362,6 +23571,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Trimble County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-36%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Union County", 
         "values": {
             "Transit stations": "n/a", 
@@ -22505,6 +23727,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Benton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-23%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Bolivar County", 
         "values": {
             "Transit stations": "n/a", 
@@ -22526,6 +23761,19 @@
             "Parks": "n/a", 
             "Workplace": "-32%", 
             "Retail & recreation": "-30%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Carroll County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-33%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -22812,6 +24060,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-24%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Kemper County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-26%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -23124,6 +24385,19 @@
             "Parks": "n/a", 
             "Workplace": "-25%", 
             "Retail & recreation": "-23%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Quitman County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -24281,6 +25555,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-20%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Lafayette County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -25521,6 +26808,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Cedar County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-19%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Cherry County", 
         "values": {
             "Transit stations": "n/a", 
@@ -25542,6 +26842,19 @@
             "Parks": "n/a", 
             "Workplace": "-26%", 
             "Retail & recreation": "-21%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Clay County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -25625,6 +26938,32 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Deuel County", 
+        "values": {
+            "Transit stations": "-5%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Dixon County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-25%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Dodge County", 
         "values": {
             "Transit stations": "-2%", 
@@ -25646,6 +26985,19 @@
             "Parks": "+55%", 
             "Workplace": "-30%", 
             "Retail & recreation": "-41%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Fillmore County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-20%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -25703,6 +27055,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Howard County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-21%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Jefferson County", 
         "values": {
             "Transit stations": "n/a", 
@@ -25716,6 +27081,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Kearney County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Keith County", 
         "values": {
             "Transit stations": "+14%", 
@@ -25724,6 +27102,32 @@
             "Parks": "n/a", 
             "Workplace": "-26%", 
             "Retail & recreation": "-31%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Kimball County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-41%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Knox County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-25%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -25781,6 +27185,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Morrill County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-22%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Nemaha County", 
         "values": {
             "Transit stations": "n/a", 
@@ -25820,6 +27237,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Pierce County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Platte County", 
         "values": {
             "Transit stations": "-16%", 
@@ -25828,6 +27258,19 @@
             "Parks": "n/a", 
             "Workplace": "-17%", 
             "Retail & recreation": "-34%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Polk County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-22%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -25919,6 +27362,45 @@
             "Parks": "n/a", 
             "Workplace": "-32%", 
             "Retail & recreation": "-29%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Stanton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-20%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Thayer County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-19%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Thurston County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -27146,6 +28628,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Benton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-42%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Blackford County", 
         "values": {
             "Transit stations": "n/a", 
@@ -27835,6 +29330,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Ohio County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-53%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Orange County", 
         "values": {
             "Transit stations": "n/a", 
@@ -28186,6 +29694,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Warren County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Warrick County", 
         "values": {
             "Transit stations": "n/a", 
@@ -28493,6 +30014,19 @@
             "Parks": "-22%", 
             "Workplace": "-32%", 
             "Retail & recreation": "-59%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Florence County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-73%"
         }
     }, 
     {
@@ -29668,6 +31202,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Doniphan County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Douglas County", 
         "values": {
             "Transit stations": "-26%", 
@@ -29689,6 +31236,19 @@
             "Parks": "n/a", 
             "Workplace": "-14%", 
             "Retail & recreation": "-34%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Ellsworth County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-16%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -29754,6 +31314,32 @@
             "Parks": "n/a", 
             "Workplace": "-14%", 
             "Retail & recreation": "-20%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Greenwood County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Harper County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-61%"
         }
     }, 
     {
@@ -29850,6 +31436,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Linn County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-17%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lyon County", 
         "values": {
             "Transit stations": "-31%", 
@@ -29941,6 +31540,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Morris County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Nemaha County", 
         "values": {
             "Transit stations": "n/a", 
@@ -29975,6 +31587,19 @@
             "Parks": "n/a", 
             "Workplace": "-12%", 
             "Retail & recreation": "-51%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Ottawa County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -30136,6 +31761,32 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Sherman County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-18%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Stevens County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-62%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Sumner County", 
         "values": {
             "Transit stations": "n/a", 
@@ -30157,6 +31808,45 @@
             "Parks": "n/a", 
             "Workplace": "-25%", 
             "Retail & recreation": "-31%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Trego County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "-14%", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Wabaunsee County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Washington County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-16%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -30222,6 +31912,19 @@
             "Parks": "n/a", 
             "Workplace": "-24%", 
             "Retail & recreation": "-21%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Audubon County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -30500,6 +32203,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Decatur County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-25%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Delaware County", 
         "values": {
             "Transit stations": "n/a", 
@@ -30638,6 +32354,19 @@
             "Parks": "n/a", 
             "Workplace": "-29%", 
             "Retail & recreation": "-70%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Guthrie County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-34%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -30877,6 +32606,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Louisa County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-18%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lucas County", 
         "values": {
             "Transit stations": "n/a", 
@@ -31046,6 +32788,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Osceola County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-25%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Page County", 
         "values": {
             "Transit stations": "n/a", 
@@ -31085,6 +32840,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Pocahontas County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-26%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Polk County", 
         "values": {
             "Transit stations": "-45%", 
@@ -31119,6 +32887,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-36%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Sac County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-22%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -31189,6 +32970,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Taylor County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-18%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Union County", 
         "values": {
             "Transit stations": "n/a", 
@@ -31249,6 +33043,19 @@
             "Parks": "n/a", 
             "Workplace": "-30%", 
             "Retail & recreation": "-41%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Wayne County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-25%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -32138,6 +33945,19 @@
     {
         "date": "2020-03-29", 
         "country": "SI", 
+        "region": "Metlika", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-58%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "SI", 
         "region": "Mozirje", 
         "values": {
             "Transit stations": "n/a", 
@@ -32146,6 +33966,19 @@
             "Parks": "n/a", 
             "Workplace": "-53%", 
             "Retail & recreation": "-80%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "SI", 
+        "region": "Municipality of Hrastnik", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-53%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -32289,6 +34122,19 @@
             "Parks": "n/a", 
             "Workplace": "-30%", 
             "Retail & recreation": "-76%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "SI", 
+        "region": "Ribnica", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-52%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -32614,6 +34460,19 @@
             "Parks": "n/a", 
             "Workplace": "-16%", 
             "Retail & recreation": "-45%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Garfield County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "+13%", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -33152,6 +35011,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "North Slope", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-7%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Sitka", 
         "values": {
             "Transit stations": "n/a", 
@@ -33160,6 +35032,32 @@
             "Parks": "n/a", 
             "Workplace": "-31%", 
             "Retail & recreation": "-59%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Southeast Fairbanks", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-35%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Valdez-Cordova", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-22%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -33511,6 +35409,19 @@
             "Parks": "n/a", 
             "Workplace": "-25%", 
             "Retail & recreation": "-24%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Union County", 
+        "values": {
+            "Transit stations": "-34%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -35830,6 +37741,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Lincoln County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-44%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Madison County", 
         "values": {
             "Transit stations": "n/a", 
@@ -35864,6 +37788,19 @@
             "Parks": "-24%", 
             "Workplace": "-31%", 
             "Retail & recreation": "-46%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Oneida County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-42%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -36436,6 +38373,32 @@
             "Parks": "-7%", 
             "Workplace": "-33%", 
             "Retail & recreation": "-38%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Gates County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Graham County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -37546,6 +39509,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Cleveland County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-33%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Columbia County", 
         "values": {
             "Transit stations": "n/a", 
@@ -37684,6 +39660,19 @@
             "Parks": "n/a", 
             "Workplace": "-16%", 
             "Retail & recreation": "-8%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Fulton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -37962,6 +39951,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Montgomery County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-33%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Nevada County", 
         "values": {
             "Transit stations": "-23%", 
@@ -37975,6 +39977,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Newton County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Ouachita County", 
         "values": {
             "Transit stations": "n/a", 
@@ -37983,6 +39998,19 @@
             "Parks": "n/a", 
             "Workplace": "-16%", 
             "Retail & recreation": "-9%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Perry County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-35%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -38053,6 +40081,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Prairie County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-26%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Pulaski County", 
         "values": {
             "Transit stations": "-38%", 
@@ -38100,6 +40141,19 @@
             "Parks": "n/a", 
             "Workplace": "-27%", 
             "Retail & recreation": "-39%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Searcy County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-39%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -38794,6 +40848,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Crawford County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-20%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Crisp County", 
         "values": {
             "Transit stations": "-10%", 
@@ -39418,6 +41485,32 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Lincoln County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Long County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-30%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lowndes County", 
         "values": {
             "Transit stations": "-21%", 
@@ -39808,6 +41901,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Schley County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-36%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Screven County", 
         "values": {
             "Transit stations": "n/a", 
@@ -40029,6 +42135,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Twiggs County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-36%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Union County", 
         "values": {
             "Transit stations": "n/a", 
@@ -40089,6 +42208,19 @@
             "Parks": "n/a", 
             "Workplace": "-23%", 
             "Retail & recreation": "-39%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Warren County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -40900,6 +43032,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Sullivan County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-42%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Susquehanna County", 
         "values": {
             "Transit stations": "-25%", 
@@ -41173,6 +43318,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Coal County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Comanche County", 
         "values": {
             "Transit stations": "+5%", 
@@ -41285,6 +43443,19 @@
             "Parks": "n/a", 
             "Workplace": "-37%", 
             "Retail & recreation": "-37%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Greer County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-38%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -41454,6 +43625,19 @@
             "Parks": "n/a", 
             "Workplace": "-44%", 
             "Retail & recreation": "-37%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Major County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -41888,6 +44072,19 @@
     {
         "date": "2020-03-29", 
         "country": "EE", 
+        "region": "Hiiu County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-68%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "EE", 
         "region": "Ida-Viru County", 
         "values": {
             "Transit stations": "-35%", 
@@ -42117,6 +44314,19 @@
             "Parks": "n/a", 
             "Workplace": "-31%", 
             "Retail & recreation": "-58%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Big Stone County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-35%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -42369,6 +44579,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Grant County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-23%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Hennepin County", 
         "values": {
             "Transit stations": "-74%", 
@@ -42486,6 +44709,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Lac qui Parle County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-20%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lake County", 
         "values": {
             "Transit stations": "n/a", 
@@ -42494,6 +44730,19 @@
             "Parks": "-50%", 
             "Workplace": "-31%", 
             "Retail & recreation": "-81%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Lake of the Woods County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-71%"
         }
     }, 
     {
@@ -42512,6 +44761,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Lincoln County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-26%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Lyon County", 
         "values": {
             "Transit stations": "n/a", 
@@ -42520,6 +44782,32 @@
             "Parks": "n/a", 
             "Workplace": "-25%", 
             "Retail & recreation": "-51%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Mahnomen County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-52%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Marshall County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-29%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -42637,6 +44925,19 @@
             "Parks": "n/a", 
             "Workplace": "-22%", 
             "Retail & recreation": "-49%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Norman County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-23%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -42993,6 +45294,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Wilkin County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Winona County", 
         "values": {
             "Transit stations": "-49%", 
@@ -43162,6 +45476,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Bon Homme County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Brookings County", 
         "values": {
             "Transit stations": "n/a", 
@@ -43253,6 +45580,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Custer County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-23%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Davison County", 
         "values": {
             "Transit stations": "n/a", 
@@ -43261,6 +45601,19 @@
             "Parks": "n/a", 
             "Workplace": "-19%", 
             "Retail & recreation": "-36%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Dewey County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-42%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -43292,6 +45645,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Hamlin County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-32%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Hughes County", 
         "values": {
             "Transit stations": "n/a", 
@@ -43300,6 +45666,32 @@
             "Parks": "n/a", 
             "Workplace": "-16%", 
             "Retail & recreation": "-20%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Hutchinson County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-17%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Kingsbury County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -43344,6 +45736,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "McCook County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-24%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Meade County", 
         "values": {
             "Transit stations": "n/a", 
@@ -43365,6 +45770,19 @@
             "Parks": "+141%", 
             "Workplace": "-23%", 
             "Retail & recreation": "-38%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Moody County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-27%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -43409,6 +45827,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Spink County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Todd County", 
         "values": {
             "Transit stations": "n/a", 
@@ -43416,6 +45847,32 @@
             "Residential": "n/a", 
             "Parks": "n/a", 
             "Workplace": "-43%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Tripp County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "n/a", 
+            "Retail & recreation": "-36%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Turner County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-21%", 
             "Retail & recreation": "n/a"
         }
     }, 
@@ -43825,6 +46282,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Coosa County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-28%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Covington County", 
         "values": {
             "Transit stations": "n/a", 
@@ -44119,6 +46589,19 @@
             "Parks": "+38%", 
             "Workplace": "-32%", 
             "Retail & recreation": "-35%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Lowndes County", 
+        "values": {
+            "Transit stations": "-29%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-34%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {
@@ -44553,6 +47036,19 @@
     {
         "date": "2020-03-29", 
         "country": "US", 
+        "region": "Essex County", 
+        "values": {
+            "Transit stations": "n/a", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-37%", 
+            "Retail & recreation": "n/a"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
         "region": "Franklin County", 
         "values": {
             "Transit stations": "n/a", 
@@ -44561,6 +47057,19 @@
             "Parks": "n/a", 
             "Workplace": "-28%", 
             "Retail & recreation": "-52%"
+        }
+    }, 
+    {
+        "date": "2020-03-29", 
+        "country": "US", 
+        "region": "Grand Isle County", 
+        "values": {
+            "Transit stations": "-60%", 
+            "Grocery & pharmacy": "n/a", 
+            "Residential": "n/a", 
+            "Parks": "n/a", 
+            "Workplace": "-49%", 
+            "Retail & recreation": "n/a"
         }
     }, 
     {

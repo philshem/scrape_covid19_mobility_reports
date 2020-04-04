@@ -26,6 +26,7 @@ categories = ('Retail & recreation','Grocery & pharmacy','Parks','Transit statio
 # to find actual data
 split_string = 'compared to baseline'
 not_enough_data = 'Not enough data for this date'
+ignore_string = 'Currently, there is not enough data'
 
 def main():
 	
@@ -34,6 +35,7 @@ def main():
 
 	# find all matching files in PDF_TXT_PATH folder
 	for f in glob.glob(PDF_TXT_PATH + os.sep + '*.txt'):
+	#for f in ['pdf/2020-03-29_US_Georgia_Mobility_Report_en.pdf.txt']:
 		#print(f)
 
 		with open(f,'r') as fp:
@@ -46,17 +48,22 @@ def main():
 
 				# loop over all valid pages
 				# skip the first two, and the last
-				if i <= 2 or i >= page_count - 2:
+				if i <= 2 or i >= page_count - 1:
 					# ignore these pages
 					continue
 				else:
 					# each pdf page has up to 2 sections
 					# need to fake the second section because there is no way to get the region name without it, so far
-					p = p.replace('\n'*5+categories[3],'\n'*4+categories[3])
-					sections = p.split('\n'*5)[0:2]
+					section_top = '\n'.join(p.split('Baseline')[0:5])
+					section_bottom = '\n'.join('\n'.join(p.split('Baseline')[6:11]).split('\n'*3)[1:])
+					#print(section_bottom)
+					#exit(0)
+					sections = [section_top,section_bottom]
+					#p = p.replace('\n'*5+categories[3],'\n'*4+categories[3])
+					#sections = p.split('\n'*5)
 
 					for text in sections:
-						if split_string in text:
+						if split_string in text and ignore_string not in text:
 							# run the main parsing code, if the expected text is on this page
 							d = parse_section(f,text)
 							if d is not None:
@@ -76,15 +83,12 @@ def parse_section(f,text):
 	date = f.split(os.sep)[-1].split('_')[0]
 
 	# get region
-	region = text.split('\n')[0]
+	region = text.strip().split('\n')[0]#.split('\n')[0]
+	#print(region)
 	#region = text.split(categories[0])[0].replace(categories[0],'')
 	
 	# find values from text
-	for line in text.split('\n'):
-		if (split_string in line or not_enough_data in line):# and 'Currently' not in line:
-			values = line
-	#	values.append()
-	values = [t.replace(split_string,'').replace(not_enough_data,'n/a') for t in text.split('\n') if split_string in t]
+	values = [t.replace(split_string,'').replace(not_enough_data,'n/a') for t in text.split('\n') if split_string in t or not_enough_data in t]
 	
 	# split into sublists
 	values = [t.split() for t in values]
@@ -97,6 +101,8 @@ def parse_section(f,text):
 	if len(values) != 6:
 		# gotta check why this still happens
 		print('WARNING:',f,region,categories,values)
+		print(text)
+		exit(0)
 		return None
 
 	# pack into dictionary
