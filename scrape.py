@@ -79,7 +79,11 @@ def main():
 def parse_section(f,text):
 
 	# get some metadata from file name
-	country = f.split(os.sep)[-1].split('_')[1]
+	country = f.split(os.sep)[-1].split('_')[1]	
+	area = ' '.join(f.split(os.sep)[-1].split('_')[2:]).split('Mobility')[0]
+	if area == '':
+		area = 'n/a'
+
 	date = f.split(os.sep)[-1].split('_')[0]
 
 	# get region
@@ -108,6 +112,7 @@ def parse_section(f,text):
 	# pack into dictionary
 	d = {'date' : date,
 			'country': country,
+			'area': area,
 			'region' : region,
 			'values': dict(zip(categories, values))
 			}
