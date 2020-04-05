@@ -9,7 +9,7 @@ import os
 import glob
 import json
 from pandas.io.json import json_normalize
-
+#from pandas.json_normalize import json_normalize
 
 # where to find files, and where to save them
 PDF_TXT_PATH = 'pdf'
@@ -29,6 +29,9 @@ not_enough_data = 'Not enough data for this date'
 ignore_string = 'Currently, there is not enough data'
 
 def main():
+	
+
+	country_map = load_countries()
 	
 	# store the individual files results in this array
 	results = []
@@ -65,7 +68,7 @@ def main():
 					for text in sections:
 						if split_string in text and ignore_string not in text:
 							# run the main parsing code, if the expected text is on this page
-							d = parse_section(f,text)
+							d = parse_section(f,text,country_map)
 							if d is not None:
 								results.append(d)
 
@@ -76,10 +79,14 @@ def main():
 	write_csv(results)
 
 
-def parse_section(f,text):
+def parse_section(f,text, cm):
 
 	# get some metadata from file name
-	country = f.split(os.sep)[-1].split('_')[1]	
+	country = f.split(os.sep)[-1].split('_')[1]
+	country_name = cm.get(country,'n/a')
+	if country_name == 'n/a':
+		print('WARNING: missing country mapping:',country)
+
 	area = ' '.join(f.split(os.sep)[-1].split('_')[2:]).split('Mobility')[0].strip()
 	if area == '':
 		area = 'n/a'
@@ -112,12 +119,20 @@ def parse_section(f,text):
 	# pack into dictionary
 	d = {'date' : date,
 			'country': country,
+			'country_name':country_name,
 			'area': area,
 			'region' : region,
 			'values': dict(zip(categories, values))
 			}
 
 	return d
+
+def load_countries():
+
+	with open('country_dict.json','r') as cc:
+		country_map = json.load(cc)
+
+	return country_map
 
 def write_json(results):
 
